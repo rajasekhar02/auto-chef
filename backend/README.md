@@ -6,7 +6,7 @@
 
 1. Integrating Zod Validation
 2. Error Handling when recipe with same id exist
-3. Refering to the URL Naming convention
+3. [Refering to the URL Naming convention](https://restfulapi.net/resource-naming/)
 4. Implementing a common message handler for the module
 
 ## Installation
