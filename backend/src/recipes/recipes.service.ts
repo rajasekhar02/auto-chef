@@ -2,49 +2,43 @@ import { Injectable } from '@nestjs/common';
 import { InjectModel } from '@nestjs/mongoose';
 import { Model } from 'mongoose';
 import { Recipe } from './schemas/recipe.schema';
-import { CreateRecipeDTO } from './dto/create-recipe.dto';
+import { CreateRecipeDto } from './dto/create-recipe.dto';
 
 @Injectable()
-export class RecipeService {
-    constructor(
-        @InjectModel('RecipeDBSchema') private recipeModel: Model<Recipe>,
-    ) {}
+export class RecipesService {
+    constructor(@InjectModel(Recipe.name) private recipeModel: Model<Recipe>) {}
 
-    async createRecipe(CreateRecipeDTO: CreateRecipeDTO): Promise<Recipe> {
-        console.log(CreateRecipeDTO);
-        const recipe = new this.recipeModel(CreateRecipeDTO);
-        const dbResp = await recipe.save();
-        console.log(dbResp);
-        return dbResp;
+    async create(CreateRecipeDto: CreateRecipeDto): Promise<Recipe> {
+        const createCat = this.recipeModel.create(CreateRecipeDto);
+        return createCat;
     }
 
-    async deleteRecipe(recipeID: string): Promise<Recipe> {
-        const deletedRecipe = await this.recipeModel.findOneAndDelete({
-            recipe_id: recipeID,
-        });
-        console.log(deletedRecipe, recipeID);
+    async delete(recipeID: string): Promise<Recipe> {
+        const deletedRecipe = await this.recipeModel
+            .findOneAndDelete({
+                recipe_id: recipeID,
+            })
+            .exec();
         return deletedRecipe;
     }
 
-    async getRecipe(recipeID: string): Promise<Recipe> {
-        const recipe = await this.recipeModel.findOne({ recipe_id: recipeID });
-        return recipe;
+    async findOne(recipeID: string): Promise<Recipe> {
+        return this.recipeModel.findOne({ recipe_id: recipeID }).exec();
     }
 
-    async getRecipes(): Promise<Recipe[]> {
-        const recipes = await this.recipeModel.find();
-        return recipes;
+    async findAll(): Promise<Recipe[]> {
+        return this.recipeModel.find().exec();
     }
 
-    async updateRecipe(
+    async update(
         recipeID: string,
-        CreateRecipeDTO: CreateRecipeDTO,
+        CreateRecipeDto: CreateRecipeDto,
     ): Promise<Recipe> {
-        const updatedRecipe = await this.recipeModel.findOneAndUpdate(
-            { recipe_id: recipeID },
-            CreateRecipeDTO,
-            { new: true },
-        );
+        const updatedRecipe = await this.recipeModel
+            .findOneAndUpdate({ recipe_id: recipeID }, CreateRecipeDto, {
+                new: true,
+            })
+            .exec();
         return updatedRecipe;
     }
 }

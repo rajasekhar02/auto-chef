@@ -1,4 +1,4 @@
-export class CreateRecipeDTO {
+export class CreateRecipeDto {
     readonly recipe_id: string;
     // cuisine: string[];
     // diet: string;
