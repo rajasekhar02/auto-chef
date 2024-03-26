@@ -8,6 +8,7 @@
 2. Error Handling when recipe with same id exist
 3. [Refering to the URL Naming convention](https://restfulapi.net/resource-naming/)
 4. Implementing a common message handler for the module
+5. Reference for MongoDB Integration with NestJS and establishing relaships between mongo models [tutorail](https://blog.stackademic.com/nestjs-and-mongodb-a-step-by-step-integration-guide-5c104bb3e582), [Mongoose Viruals](https://mongoosejs.com/docs/tutorials/virtuals.html)
 
 ## Installation
 
