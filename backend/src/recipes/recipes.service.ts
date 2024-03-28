@@ -8,9 +8,9 @@ import { CreateRecipeDto } from './dto/create-recipe.dto';
 export class RecipesService {
     constructor(@InjectModel(Recipe.name) private recipeModel: Model<Recipe>) {}
 
-    async create(CreateRecipeDto: CreateRecipeDto): Promise<Recipe> {
-        const createCat = this.recipeModel.create(CreateRecipeDto);
-        return createCat;
+    async create(createRecipeDto: CreateRecipeDto): Promise<Recipe> {
+        const createRecipe = this.recipeModel.create(createRecipeDto);
+        return createRecipe;
     }
 
     async delete(recipeID: string): Promise<Recipe> {
