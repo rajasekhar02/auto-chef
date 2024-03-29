@@ -6,6 +6,7 @@ import { MongooseModule } from '@nestjs/mongoose';
 import { RecipesModule } from './recipes/recipes.module';
 import { AuthModule } from './auth/auth.module';
 import { UsersModule } from './users/users.module';
+import { IngredientsModule } from './ingredients/ingredients.module';
 @Module({
     imports: [
         ConfigModule.forRoot({ isGlobal: true }),
@@ -21,6 +22,7 @@ import { UsersModule } from './users/users.module';
             },
         }),
         RecipesModule,
+        IngredientsModule,
     ],
     controllers: [AppController],
     providers: [AppService],
