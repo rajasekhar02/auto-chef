@@ -16,8 +16,8 @@ export class IngredientsController {
     constructor(private readonly ingredientsService: IngredientsService) {}
 
     @Post()
-    create(@Body() createIngredientDto: CreateIngredientDto) {
-        return this.ingredientsService.create(createIngredientDto);
+    create(@Body() newIngredients: CreateIngredientDto[]) {
+        return this.ingredientsService.create(newIngredients);
     }
 
     @Get()

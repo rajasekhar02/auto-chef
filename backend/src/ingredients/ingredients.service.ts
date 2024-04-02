@@ -11,10 +11,13 @@ export class IngredientsService {
         @InjectModel(Ingredient.name)
         private ingredientModel: Model<Ingredient>,
     ) {}
-    create(createIngredientDto: CreateIngredientDto) {
-        const createIngredient =
-            this.ingredientModel.create(createIngredientDto);
-        return createIngredient;
+
+    create(
+        createIngredientDto: CreateIngredientDto[],
+    ): Promise<CreateIngredientDto[]> {
+        const createIngredients =
+            this.ingredientModel.insertMany(createIngredientDto);
+        return createIngredients;
     }
 
     findAll() {
