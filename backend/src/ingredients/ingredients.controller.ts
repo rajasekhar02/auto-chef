@@ -38,8 +38,13 @@ export class IngredientsController {
         return this.ingredientsService.update(id, updateIngredientDto);
     }
 
-    @Delete(':id')
-    remove(@Param('id') id: string) {
-        return this.ingredientsService.remove(id);
+    // @Delete(':id')
+    // remove(@Param('id') id: string) {
+    //     return this.ingredientsService.remove(id);
+    // }
+
+    @Delete()
+    remove(@Body() ingredientIdsObj: { ingredient_ids: string[] }) {
+        return this.ingredientsService.remove(ingredientIdsObj.ingredient_ids);
     }
 }

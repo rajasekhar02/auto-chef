@@ -34,7 +34,7 @@ export class IngredientsService {
         ingredientId: string,
         updateIngredientDto: UpdateIngredientDto,
     ) {
-        const updatedRecipe = await this.ingredientModel
+        const updatedIngredient = await this.ingredientModel
             .findOneAndUpdate(
                 { ingredient_id: ingredientId },
                 updateIngredientDto,
@@ -43,15 +43,18 @@ export class IngredientsService {
                 },
             )
             .exec();
-        return updatedRecipe;
+        return updatedIngredient;
     }
 
-    async remove(ingredient_id: string) {
-        const deletedRecipe = await this.ingredientModel
-            .findOneAndDelete({
-                ingredient_id: ingredient_id,
+    async remove(ingredient_ids: string[]) {
+        // TODO: provide proper response to notify the successfull deletion
+        // TODO: provide proper response to notify error
+        const deleteIngredients = await this.ingredientModel
+            .deleteMany({
+                ingredient_id: { $in: ingredient_ids },
             })
             .exec();
-        return deletedRecipe;
+        console.log(deleteIngredients);
+        return deleteIngredients;
     }
 }
