@@ -3,28 +3,7 @@ import { User } from './schemas/user.schema';
 import { CreateUserDto } from './dto/create-user.dto';
 import { Model } from 'mongoose';
 import { InjectModel } from '@nestjs/mongoose';
-// // This should be a real class/interface representing a user entity
-// export type User = any;
 
-// @Injectable()
-// export class UsersService {
-//     private readonly users = [
-//         {
-//             userId: 1,
-//             username: 'john',
-//             password: 'changeme',
-//         },
-//         {
-//             userId: 2,
-//             username: 'maria',
-//             password: 'guess',
-//         },
-//     ];
-
-//     async findOne(username: string): Promise<User | undefined> {
-//         return this.users.find((user) => user.username === username);
-//     }
-// }
 @Injectable()
 export class UsersService {
     constructor(@InjectModel(User.name) private userModel: Model<User>) {}

@@ -1,21 +1,16 @@
 import {
     Body,
-    ClassSerializerInterceptor,
     Controller,
     Get,
     HttpCode,
     HttpStatus,
     Post,
     Request,
-    Response,
-    UseInterceptors,
 } from '@nestjs/common';
 import { AuthService } from './auth.service';
 import { Public } from './decorators/public.decorator';
 import { CreateUserDto } from 'src/users/dto/create-user.dto';
 import { SigninUserDto } from './dto/signin-user.dto';
-import { User } from 'src/users/schemas/user.schema';
-import { plainToClass } from 'class-transformer';
 
 @Controller('auth')
 export class AuthController {
