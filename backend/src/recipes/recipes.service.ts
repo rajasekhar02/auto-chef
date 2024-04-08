@@ -23,11 +23,27 @@ export class RecipesService {
     }
 
     async findOne(recipeID: string): Promise<Recipe> {
-        return this.recipeModel.findOne({ recipe_id: recipeID }).exec();
+        return this.recipeModel
+            .findOne({ recipe_id: recipeID })
+            .populate({
+                path: 'ingredients',
+                model: 'Ingredient',
+                select: 'name',
+                foreignField: 'ingredient_id',
+            })
+            .exec();
     }
 
     async findAll(): Promise<Recipe[]> {
-        return this.recipeModel.find().exec();
+        return this.recipeModel
+            .find()
+            .populate({
+                path: 'ingredients',
+                model: 'Ingredient',
+                select: 'name',
+                foreignField: 'ingredient_id',
+            })
+            .exec();
     }
 
     async update(

@@ -1,0 +1,3167 @@
+[
+    {
+        "name": "Prepared Ingredients",
+        "allergens": [],
+        "ingredient_id": "b9a5780a-ab16-4d37-97bc-58034581ee06"
+    },
+    {
+        "name": "De-seeded Cucumber",
+        "allergens": [],
+        "ingredient_id": "340fbe93-070f-46e8-919e-1e01e8073849"
+    },
+    {
+        "name": "Garlic",
+        "allergens": [],
+        "ingredient_id": "Jvrv1829TmalCfkvRg7z"
+    },
+    {
+        "name": "Brandy",
+        "allergens": [],
+        "ingredient_id": "67f94a2b-f5bf-4cdc-a0d0-eb0cd1dab6e2"
+    },
+    {
+        "name": "Watermelon Slice",
+        "allergens": [],
+        "ingredient_id": "bc730c03-5d96-48fa-87c8-5c279a01410f"
+    },
+    {
+        "name": "Mint Leaves",
+        "allergens": [],
+        "ingredient_id": "3wBpFlPL7zmc1WbeYdEP"
+    },
+    {
+        "name": "Jackfruit",
+        "allergens": [],
+        "ingredient_id": "c7e2f085-7ad9-46c4-b1b8-de10de08583c"
+    },
+    {
+        "name": "Besan Flour",
+        "allergens": [],
+        "ingredient_id": "261b3da5-575f-47ad-88dc-a2508fd9df05"
+    },
+    {
+        "name": "Cranberry Juice",
+        "allergens": [],
+        "ingredient_id": "38118d10-2987-46f9-9a47-a2605aacefc8"
+    },
+    {
+        "name": "Processed Mushroom",
+        "allergens": [],
+        "ingredient_id": "b1bf79cc-d56d-4219-82f4-c2a9ad24b88a"
+    },
+    {
+        "name": "Egg White",
+        "allergens": [],
+        "ingredient_id": "683ae749-17e4-4ea7-87fb-b22069d46f56"
+    },
+    {
+        "name": "Washed Barley",
+        "allergens": [],
+        "ingredient_id": "xpGx7EpWV5Id7ANraiYK"
+    },
+    {
+        "name": "Tea",
+        "allergens": [],
+        "ingredient_id": "e81d785c-6129-43c5-9d88-ce8ec78ca61b"
+    },
+    {
+        "name": "Foxtail Millet",
+        "allergens": [],
+        "ingredient_id": "a3996c15-049c-4682-9a67-d8508880b7c4"
+    },
+    {
+        "name": "Walnut Kernels",
+        "allergens": [
+            "Walnut"
+        ],
+        "ingredient_id": "rLTOgmAbynvznPltHszA"
+    },
+    {
+        "name": "Steamed Vegetables",
+        "allergens": [],
+        "ingredient_id": "e5d5e57d-f437-465c-9933-8dcdfcaaf4d2"
+    },
+    {
+        "name": "Vangi Bath Powder",
+        "allergens": [],
+        "ingredient_id": "2fe25436-7a9a-4504-9c86-6a867be509d6"
+    },
+    {
+        "name": "Vegetable Stock",
+        "allergens": [],
+        "ingredient_id": "2oO6EEq4WQwLtgGYaQdx"
+    },
+    {
+        "name": "Egg",
+        "allergens": [
+            "Egg"
+        ],
+        "ingredient_id": "udKlCZONv058cpuw7mz9"
+    },
+    {
+        "name": "Boiled Egg",
+        "allergens": [],
+        "ingredient_id": "51b9ee75-327b-40d6-9f2e-132ec5113367"
+    },
+    {
+        "name": "Jalapeno",
+        "allergens": [],
+        "ingredient_id": "7c5c5d54-ccb3-47c7-acc5-17886e7b9d1a"
+    },
+    {
+        "name": "Mutton Bone-in",
+        "allergens": [],
+        "ingredient_id": "bd0a09d6-5826-4f81-9425-21d339af323e"
+    },
+    {
+        "name": "Boiled Beetroot",
+        "allergens": [],
+        "ingredient_id": "C9eHXivfPEirPc1g5dmc"
+    },
+    {
+        "name": "Egg Yolk",
+        "allergens": [
+            "Egg"
+        ],
+        "ingredient_id": "29e44a91-d494-48bd-aaa5-4b068e911537"
+    },
+    {
+        "name": "Red Bell Pepper",
+        "allergens": [],
+        "ingredient_id": "2RHfBCn2NxOZW6ZqkmMV"
+    },
+    {
+        "name": "Packet Milk",
+        "allergens": [
+            "Lactose"
+        ],
+        "ingredient_id": "796cfe38-9850-475e-aa55-ad671f09a7c2"
+    },
+    {
+        "name": "Red Carrot",
+        "allergens": [],
+        "ingredient_id": "c086c174-342c-4a4d-9c35-a5a7ce76c016"
+    },
+    {
+        "name": "Washed Prawns",
+        "allergens": [],
+        "ingredient_id": "uGml4u6P0SzLDhl44bnZ"
+    },
+    {
+        "name": "Parmesan Cheese Powder",
+        "allergens": [
+            "Lactose"
+        ],
+        "ingredient_id": "3df57632-dd1a-4c34-b411-1ecab67f41e2"
+    },
+    {
+        "name": "Seasoned Batter",
+        "allergens": [],
+        "ingredient_id": "eef71ebb-4278-4fde-bfba-4eb655aaa676"
+    },
+    {
+        "name": "Mace",
+        "allergens": [],
+        "ingredient_id": "ae64ce2b-51a7-400e-93f4-b53af60586f1"
+    },
+    {
+        "name": "Tomato Sauce",
+        "allergens": [],
+        "ingredient_id": "c47892ba-7335-4f9d-9e0b-5be3aeaa1f57"
+    },
+    {
+        "name": "Cheddar Cheese",
+        "allergens": [
+            "Lactose"
+        ],
+        "ingredient_id": "cfa6a979-03b8-4a3b-9585-e2ef7dc90797"
+    },
+    {
+        "name": "Hakka Noodles",
+        "allergens": [],
+        "ingredient_id": "ba336af4-a805-4cf0-92d3-9cff4d0458f3"
+    },
+    {
+        "name": "Thyme",
+        "allergens": [],
+        "ingredient_id": "ffd39d26-ac19-4254-a014-cb35537a5fc1"
+    },
+    {
+        "name": "Cut Bottle Gourd",
+        "allergens": [],
+        "ingredient_id": "ee27f8f2-af59-4bdc-bbae-a34b09d8605c"
+    },
+    {
+        "name": "Bisi Bele Bhath Powder",
+        "allergens": [],
+        "ingredient_id": "025cfda8-f547-4257-8213-0ded3c3f8166"
+    },
+    {
+        "name": "Water",
+        "allergens": [],
+        "ingredient_id": "OqJKyZCNnXqD0zIfZjKx"
+    },
+    {
+        "name": "Unsalted Butter",
+        "allergens": [],
+        "ingredient_id": "860780b9-c390-45f7-88e0-3dc2c9c56ac0"
+    },
+    {
+        "name": "Steamed Prawns",
+        "allergens": [],
+        "ingredient_id": "c72bd280-9c82-4623-bcc7-98675f3f5195"
+    },
+    {
+        "name": "Soaked Millets",
+        "allergens": [],
+        "ingredient_id": "5ace3549-bd80-4bc4-82ed-d19f9b812660"
+    },
+    {
+        "name": "White Wine Vinegar",
+        "allergens": [],
+        "ingredient_id": "4c7bc82d-89f6-420e-8b06-12856ad9623c"
+    },
+    {
+        "name": "Sliced Bitter Gourd",
+        "allergens": [],
+        "ingredient_id": "2e4b23c3-168e-470a-8605-df8ba0a9946b"
+    },
+    {
+        "name": "Paneer",
+        "allergens": [
+            "Lactose"
+        ],
+        "ingredient_id": "THfZ0YVPphUWA5LdRUeb"
+    },
+    {
+        "name": "Golden Raisin",
+        "allergens": [],
+        "ingredient_id": "7ba23dc8-bf3c-4424-b32c-936c875b6afb"
+    },
+    {
+        "name": "Sautéed Paneer",
+        "allergens": [],
+        "ingredient_id": "P7CCaoGGmnfzuQUQHGNo"
+    },
+    {
+        "name": "Washed Mint Leaves",
+        "allergens": [],
+        "ingredient_id": "f60724d0-957c-4751-9dfe-4127660fdc20"
+    },
+    {
+        "name": "Red Pumpkin",
+        "allergens": [],
+        "ingredient_id": "87e01ea0-c71f-4e42-8878-2abde8ea6bbd"
+    },
+    {
+        "name": "Marinated Prawns",
+        "allergens": [],
+        "ingredient_id": "9742da5f-faf1-4980-9d79-a4c13b047c72"
+    },
+    {
+        "name": "Soaked Dry Fruits",
+        "allergens": [],
+        "ingredient_id": "5bb1c394-614a-4a21-9aa4-ba7baf66cb63"
+    },
+    {
+        "name": "Lauki",
+        "allergens": [],
+        "ingredient_id": "46384df6-795d-4bc7-a994-d2ec6d1da704"
+    },
+    {
+        "name": "Pistachio",
+        "allergens": [],
+        "ingredient_id": "e65b33b7-1c17-467e-a9f2-39837d99b0b0"
+    },
+    {
+        "name": "Fennel Seeds Powder",
+        "allergens": [],
+        "ingredient_id": "7b6860dc-a10a-4d52-88ad-98e84231dde7"
+    },
+    {
+        "name": "Boiled Sweet Corn",
+        "allergens": [],
+        "ingredient_id": "LkaTpMNogQF1Zn4PJYw7"
+    },
+    {
+        "name": "Frozen Mix Vegetables",
+        "allergens": [],
+        "ingredient_id": "5c8d2b9b-a0d0-46d8-9944-6fc9b9314eba"
+    },
+    {
+        "name": "Cherry tomatoes",
+        "allergens": [],
+        "ingredient_id": "PXqsO8xIqL7XUX5JDkdo"
+    },
+    {
+        "name": "Washed Dal",
+        "allergens": [],
+        "ingredient_id": "bc15a731-92e8-4621-91d6-add0bd413903"
+    },
+    {
+        "name": "Coriander Powder",
+        "allergens": [],
+        "ingredient_id": "9AzAwwYbX2DVwFCg9XW9"
+    },
+    {
+        "name": "Capsicum",
+        "allergens": [],
+        "ingredient_id": "07yxeWBS29bwV6SdeJPN"
+    },
+    {
+        "name": "Raw Mango Pulp",
+        "allergens": [],
+        "ingredient_id": "9e707832-c1aa-4182-8985-4dbef2c6f4dc"
+    },
+    {
+        "name": "Black Salt",
+        "allergens": [],
+        "ingredient_id": "ec1dd0dd-a20e-4577-b47c-318fa3127253"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "b9c917b3-a975-4000-b32d-a0a3880f2432"
+    },
+    {
+        "name": "Black Raisins",
+        "allergens": [],
+        "ingredient_id": "33ef146e-4bbc-43e1-a144-e45cb8d42cb0"
+    },
+    {
+        "name": "Methi Seeds",
+        "allergens": [],
+        "ingredient_id": "75261924-7242-4d77-af53-1fa12e5fed6c"
+    },
+    {
+        "name": "Full Fat Milk",
+        "allergens": [],
+        "ingredient_id": "4a59e551-b492-46d3-88e0-c25ba91d3abd"
+    },
+    {
+        "name": "Washed Rice",
+        "allergens": [],
+        "ingredient_id": "ec16eed5-1f33-40f2-af28-23bcc756855c"
+    },
+    {
+        "name": "Minced Chicken",
+        "allergens": [],
+        "ingredient_id": "Y8b4fmOU2lV9rOnpb2nM"
+    },
+    {
+        "name": "Extra Virgin Olive Oil",
+        "allergens": [],
+        "ingredient_id": "YibUC9XaNZf7oDKbpSUs"
+    },
+    {
+        "name": "Passion Fruit Pulp",
+        "allergens": [],
+        "ingredient_id": "c0b43079-42f2-45c1-8909-7cede88bfbee"
+    },
+    {
+        "name": "Sautéed Chicken",
+        "allergens": [],
+        "ingredient_id": "15d10107-b9ce-4309-bd2d-6c76fa384103"
+    },
+    {
+        "name": "Aam Panna",
+        "allergens": [],
+        "ingredient_id": "4a75c2e5-5bbf-449f-a800-2d490a5d4fc4"
+    },
+    {
+        "name": "Resting Dough",
+        "allergens": [],
+        "ingredient_id": "2e36bc85-0d1d-4d45-8ea6-5a948cde7b0e"
+    },
+    {
+        "name": "Boiled Toor Dal",
+        "allergens": [],
+        "ingredient_id": "ac0ae325-b345-442d-ad20-4bcbba96e255"
+    },
+    {
+        "name": "Sunflower Seeds",
+        "allergens": [],
+        "ingredient_id": "5a348727-219b-46be-ad6e-242676ff9afa"
+    },
+    {
+        "name": "Boiled Black Chickpeas",
+        "allergens": [],
+        "ingredient_id": "d78383fe-9af5-4337-9c22-54fbe87b5d69"
+    },
+    {
+        "name": "Veg Biryani Masala",
+        "allergens": [],
+        "ingredient_id": "Tb2qzydcjOIcnUqm37Dd"
+    },
+    {
+        "name": "Chai Masala",
+        "allergens": [],
+        "ingredient_id": "a21293fc-f259-4dc0-b736-e5708360ec83"
+    },
+    {
+        "name": "Idli Rice",
+        "allergens": [],
+        "ingredient_id": "5ad8a16d-ceee-421a-9440-9e743f8547f5"
+    },
+    {
+        "name": "Toor Dal",
+        "allergens": [],
+        "ingredient_id": "Z4N1HiQimS7NDib3fR6A"
+    },
+    {
+        "name": "Garam Masala",
+        "allergens": [],
+        "ingredient_id": "dbQX8dh0DFZGvwBvs8sw"
+    },
+    {
+        "name": "Fennel Seeds",
+        "allergens": [],
+        "ingredient_id": "9e60f762-a235-457d-a798-c2db20206d60"
+    },
+    {
+        "name": "Master Chow Hakka Noodles",
+        "allergens": [],
+        "ingredient_id": "45d1d802-7d77-402e-aa4b-265dd98e381e"
+    },
+    {
+        "name": "Vegetable Stock",
+        "allergens": [
+            "MSG"
+        ],
+        "ingredient_id": "21ad2ee5-e678-4b65-b99c-9cb377dfdb6a"
+    },
+    {
+        "name": "Liquid Dishwashing Detergent",
+        "allergens": [],
+        "ingredient_id": "aET4qF53DtIBMQEzfq0M"
+    },
+    {
+        "name": "Washed Daliya and Dal",
+        "allergens": [],
+        "ingredient_id": "b94964e4-0b57-4fab-928d-3e555c8030e6"
+    },
+    {
+        "name": "Japanese Curry Cube",
+        "allergens": [],
+        "ingredient_id": "cdd9e295-c342-46f4-9f39-fe2d5825c974"
+    },
+    {
+        "name": "Bitter Gourd",
+        "allergens": [],
+        "ingredient_id": "c60dd836-f560-49f6-8ec9-0db194747c2a"
+    },
+    {
+        "name": "Soya Granules",
+        "allergens": [
+            "Soy"
+        ],
+        "ingredient_id": "7JqfKlC5jcYH4rKi1IfQ"
+    },
+    {
+        "name": "Namkeen Mixture",
+        "allergens": [],
+        "ingredient_id": "7784cff4-1ca7-4ccd-a33b-573632fd3a5b"
+    },
+    {
+        "name": "Red Amaranth Leaves",
+        "allergens": [],
+        "ingredient_id": "f723f89d-c11f-49f3-a94e-8131efff61bf"
+    },
+    {
+        "name": "Dark Rum",
+        "allergens": [],
+        "ingredient_id": "5920d46b-1020-41ca-84b5-9878d3bd69f8"
+    },
+    {
+        "name": "Baking Powder",
+        "allergens": [],
+        "ingredient_id": "928effd2-7bc5-4521-a450-2a947a496a1c"
+    },
+    {
+        "name": "Kimchi",
+        "allergens": [],
+        "ingredient_id": "f402114a-87f8-439e-aaab-0f1152812a14"
+    },
+    {
+        "name": "Chai",
+        "allergens": [],
+        "ingredient_id": "1dbdf7f6-6dba-440e-9f0e-4c36c3782c9e"
+    },
+    {
+        "name": "Master Chow Sauce",
+        "allergens": [],
+        "ingredient_id": "72c41814-15f9-4931-8985-51fc40690894"
+    },
+    {
+        "name": "Orange Zest",
+        "allergens": [],
+        "ingredient_id": "bc361255-7dc3-41cb-bda3-22f620e44f0d"
+    },
+    {
+        "name": "Jaggery Powder",
+        "allergens": [],
+        "ingredient_id": "57d75079-695c-4213-822c-62682fa0e035"
+    },
+    {
+        "name": "Lemon Wedges",
+        "allergens": [],
+        "ingredient_id": "61f24a28-98c1-4cc6-a6c0-c7da8aaa92aa"
+    },
+    {
+        "name": "Mutton Bone-in",
+        "allergens": [],
+        "ingredient_id": "6520d315-92d0-47b1-973d-66c61bf3fd63"
+    },
+    {
+        "name": "Black Turtle Beans",
+        "allergens": [],
+        "ingredient_id": "5bd036c0-2b9d-415f-a7db-a0dcb696a207"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "fc1ade21-5ef7-49c9-929c-b6326bd5b203"
+    },
+    {
+        "name": "Processed Amaranth",
+        "allergens": [],
+        "ingredient_id": "386baed8-f1ae-41cc-aef6-234d1149cfe9"
+    },
+    {
+        "name": "Frankie Wraps",
+        "allergens": [],
+        "ingredient_id": "5a069255-2494-4049-b3bc-9d45fa22cdbb"
+    },
+    {
+        "name": "Ponk",
+        "allergens": [],
+        "ingredient_id": "3a5fd3d5-a5f8-46e0-b9b7-9011a19a4c79"
+    },
+    {
+        "name": "White Radish",
+        "allergens": [],
+        "ingredient_id": "64e325fa-fde4-4acd-9bf2-8b2cf3e92cd9"
+    },
+    {
+        "name": "Dried Cranberry",
+        "allergens": [],
+        "ingredient_id": "8489892a-2ce6-483a-b7a7-3027eea41543"
+    },
+    {
+        "name": "Sautéed Aromatics",
+        "allergens": [],
+        "ingredient_id": "8db28e83-ed5d-4241-8b5a-2117dbbde720"
+    },
+    {
+        "name": "Snake Gourd",
+        "allergens": [],
+        "ingredient_id": "f7797f71-dca7-40d1-a23f-9942b4a1dbbe"
+    },
+    {
+        "name": "Fried Puris",
+        "allergens": [],
+        "ingredient_id": "65a7e328-9fd2-4ac4-9ae0-f131fa85e59d"
+    },
+    {
+        "name": "Cooked Wheat, Barley and Lentils",
+        "allergens": [],
+        "ingredient_id": "b9b87c5f-ccef-43df-8d08-f5742d7513c5"
+    },
+    {
+        "name": "Blueberries",
+        "allergens": [],
+        "ingredient_id": "49c2680e-d6bb-4da8-bd7c-6f2d799f130a"
+    },
+    {
+        "name": "Raspberries",
+        "allergens": [],
+        "ingredient_id": "ecb74a64-9060-43c6-a5f5-ce55d1958c7a"
+    },
+    {
+        "name": "Saffron Milk",
+        "allergens": [],
+        "ingredient_id": "2d7b52c9-4cbc-46cd-83e6-bdea35a50f21"
+    },
+    {
+        "name": "Rasam Powder",
+        "allergens": [],
+        "ingredient_id": "9d2c75f7-1205-4a31-a7b8-b8986b412bcf"
+    },
+    {
+        "name": "Basil",
+        "allergens": [],
+        "ingredient_id": "0niYoCwHZ6mlwxBvw8n7"
+    },
+    {
+        "name": "Washed Fish",
+        "allergens": [],
+        "ingredient_id": "f348c0c4-af53-4c11-be94-f80d05b8ca82"
+    },
+    {
+        "name": "Hot Water",
+        "allergens": [],
+        "ingredient_id": "b60c827d-66cd-4572-865d-bd422eff6cca"
+    },
+    {
+        "name": "Surti Papdi Beans",
+        "allergens": [],
+        "ingredient_id": "53530959-fa8e-449c-9bf6-f00b9c4680f5"
+    },
+    {
+        "name": "Black Chickpeas",
+        "allergens": [],
+        "ingredient_id": "fb616da6-8ef9-410c-969f-fd7952303864"
+    },
+    {
+        "name": "Purple Yam",
+        "allergens": [],
+        "ingredient_id": "439bc4fc-2a3f-40fe-97ac-a964d827ea48"
+    },
+    {
+        "name": "Shirataki Noodles",
+        "allergens": [],
+        "ingredient_id": "316fcf1a-e924-4f71-a13c-d5a57aadff3d"
+    },
+    {
+        "name": "Silver Foil",
+        "allergens": [],
+        "ingredient_id": "0c931e57-68c2-42ca-97e2-79a5a9db87dc"
+    },
+    {
+        "name": "Silver Leaf",
+        "allergens": [],
+        "ingredient_id": "dadcbd1d-f618-4885-bc34-e3cb605ffa2b"
+    },
+    {
+        "name": "Strawberry",
+        "allergens": [],
+        "ingredient_id": "1b6b0869-695b-4983-9849-517ffb67ae03"
+    },
+    {
+        "name": "Prepared Pasta",
+        "allergens": [],
+        "ingredient_id": "xaFq5cNj735u9RQnVXzC"
+    },
+    {
+        "name": "Namkeen Boondi",
+        "allergens": [],
+        "ingredient_id": "c17da734-fe3a-447a-8333-2b984c1b7148"
+    },
+    {
+        "name": "Steamer Basket with Prawns",
+        "allergens": [],
+        "ingredient_id": "3de6b644-92cf-488a-8113-8e43298338d8"
+    },
+    {
+        "name": "Romaine Lettuce",
+        "allergens": [],
+        "ingredient_id": "7f3b982c-2b1d-4311-b6a3-03c063e30364"
+    },
+    {
+        "name": "Dried Red Chilli",
+        "allergens": [],
+        "ingredient_id": "2I0gpuadwHKDBd5OzORB"
+    },
+    {
+        "name": "Green Pigeon Peas",
+        "allergens": [],
+        "ingredient_id": "2bf8c042-4063-4ebd-a68e-92a85099fba7"
+    },
+    {
+        "name": "Saffron",
+        "allergens": [],
+        "ingredient_id": "8ce58335-987b-437f-8dfd-6545e41c46db"
+    },
+    {
+        "name": "Jowar Flour",
+        "allergens": [],
+        "ingredient_id": "813ac125-20e7-49e5-9553-2490131e736e"
+    },
+    {
+        "name": "Ash Gourd",
+        "allergens": [],
+        "ingredient_id": "0cbabff1-3e49-4803-97e1-1d83038f598e"
+    },
+    {
+        "name": "Cold Water",
+        "allergens": [],
+        "ingredient_id": "0513daf5-2162-4899-ac24-2c0fcd31fc88"
+    },
+    {
+        "name": "Saunf",
+        "allergens": [],
+        "ingredient_id": "1AmZ80VIxmEOGC9ybzo4"
+    },
+    {
+        "name": "Greek Yogurt",
+        "allergens": [],
+        "ingredient_id": "fc2093cd-c2ff-4287-861a-8a342c1c4fad"
+    },
+    {
+        "name": "Yellow Mustard Seeds",
+        "allergens": [],
+        "ingredient_id": "490fd1d0-e6da-495d-9e07-6f883b4300bc"
+    },
+    {
+        "name": "Idli Rice",
+        "allergens": [],
+        "ingredient_id": "2a3cb077-d9d0-4666-9659-7d69544cda39"
+    },
+    {
+        "name": "Pomegranate Pearls",
+        "allergens": [],
+        "ingredient_id": "55556a3f-9041-406c-b10d-a3350e81d3ef"
+    },
+    {
+        "name": "Small Brinjal",
+        "allergens": [],
+        "ingredient_id": "e10a5147-7271-4c0a-86e9-c78b11a240ea"
+    },
+    {
+        "name": "Fried Onions",
+        "allergens": [],
+        "ingredient_id": "094c0db2-8119-4930-bb4c-340c057c70a9"
+    },
+    {
+        "name": "Baby Potatoes",
+        "allergens": [],
+        "ingredient_id": "18a0db53-e48b-40f7-9aaf-9f921e32f1f0"
+    },
+    {
+        "name": "Black Urad Dal",
+        "allergens": [],
+        "ingredient_id": "07681237-239b-402c-957a-39cb070d3710"
+    },
+    {
+        "name": "Boiled Black Turtle Beans",
+        "allergens": [],
+        "ingredient_id": "d75edc35-e273-454c-8511-28c8cb45e715"
+    },
+    {
+        "name": "Diced Potato",
+        "allergens": [],
+        "ingredient_id": "b5eff579-0909-4fcd-a61f-1346f50fd63f"
+    },
+    {
+        "name": "Trimmed Strawberries",
+        "allergens": [],
+        "ingredient_id": "0d7d44fa-e1da-42a8-b761-56d9f6299feb"
+    },
+    {
+        "name": "Soaked Black Chickpeas",
+        "allergens": [],
+        "ingredient_id": "0b7b0af7-e84d-4534-a52d-8851723a48bf"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "652ea75c-b4d8-4869-a73c-71b277614837"
+    },
+    {
+        "name": "Star Anise",
+        "allergens": [],
+        "ingredient_id": "wSPvn9Iny0foznbbHjMC"
+    },
+    {
+        "name": "Chole Masala",
+        "allergens": [],
+        "ingredient_id": "0796610e-daba-4f4c-bf34-05ccb9103660"
+    },
+    {
+        "name": "Tomato Purée",
+        "allergens": [],
+        "ingredient_id": "d4079d95-8814-42b5-a73f-aad9b975489e"
+    },
+    {
+        "name": "Bajra Flour",
+        "allergens": [],
+        "ingredient_id": "993f267b-ebcc-4fb9-922e-c0c87d2ca94d"
+    },
+    {
+        "name": "Methi Muthiya",
+        "allergens": [],
+        "ingredient_id": "024680e4-a635-40c4-af76-11f329841655"
+    },
+    {
+        "name": "Aromatic Paste",
+        "allergens": [],
+        "ingredient_id": "bd1fe8ee-12d4-4357-9f65-fd226d52404f"
+    },
+    {
+        "name": "Beans",
+        "allergens": [],
+        "ingredient_id": "41bff767-398e-4ef9-b7bb-57b4b4351238"
+    },
+    {
+        "name": "Washed Daliya",
+        "allergens": [],
+        "ingredient_id": "d1a81e01-0b23-4966-af71-7ef4f204065a"
+    },
+    {
+        "name": "Paprika",
+        "allergens": [],
+        "ingredient_id": "b53e431a-242a-4643-915e-701ebb962884"
+    },
+    {
+        "name": "Fresh Cream",
+        "allergens": [],
+        "ingredient_id": "17f649df-85f6-477a-be74-eb52cb034486"
+    },
+    {
+        "name": "Raisins",
+        "allergens": [],
+        "ingredient_id": "31PJYWxZTQBm8Pu9sZg4"
+    },
+    {
+        "name": "Celery",
+        "allergens": [],
+        "ingredient_id": "J3Apv5wOLW6ZlgcRemky"
+    },
+    {
+        "name": "Sprite",
+        "allergens": [],
+        "ingredient_id": "qgRt1lkomgV37LR7q2S8"
+    },
+    {
+        "name": "Boiled Chickpea Water",
+        "allergens": [],
+        "ingredient_id": "8615ab0e-242a-4748-8181-462aab26c152"
+    },
+    {
+        "name": "Yellow Lemon Zest",
+        "allergens": [],
+        "ingredient_id": "d3254c62-ad76-44a9-bf9a-42a9ac8d2bba"
+    },
+    {
+        "name": "Sweet Potato",
+        "allergens": [],
+        "ingredient_id": "yYQ8pfvfjLsiAcxyfC1y"
+    },
+    {
+        "name": "Washed Dal",
+        "allergens": [],
+        "ingredient_id": "02c75278-0ade-497a-bfd8-5a7a6714a059"
+    },
+    {
+        "name": "Almond Milk",
+        "allergens": [],
+        "ingredient_id": "af7fae81-6f07-4170-b5ad-298d80a74a45"
+    },
+    {
+        "name": "Wheat",
+        "allergens": [],
+        "ingredient_id": "5614ede8-f225-4c34-bdd8-425bbb3b1091"
+    },
+    {
+        "name": "Kiwi",
+        "allergens": [
+            "Kiwi"
+        ],
+        "ingredient_id": "3b1e098f-b1b5-4ae2-97fa-866fecf7cbe9"
+    },
+    {
+        "name": "Black Cardamom",
+        "allergens": [],
+        "ingredient_id": "L9OOgR6nkSnKwAzgbT1L"
+    },
+    {
+        "name": "Almonds",
+        "allergens": [
+            "Almond"
+        ],
+        "ingredient_id": "H3ZaWNDidCslXy8T7DLS"
+    },
+    {
+        "name": "Sautéed Tomatoes",
+        "allergens": [],
+        "ingredient_id": "f3049582-a7b2-47da-8403-e3ff76ddd30d"
+    },
+    {
+        "name": "Tabasco Sauce",
+        "allergens": [],
+        "ingredient_id": "22a0d4ab-b876-4651-919a-6e6bbe8efa7c"
+    },
+    {
+        "name": "Boiled Dal",
+        "allergens": [],
+        "ingredient_id": "4ce8df16-e857-4154-939c-bda76dc66814"
+    },
+    {
+        "name": "Maraschino Cherry",
+        "allergens": [],
+        "ingredient_id": "39537148-2495-41de-a136-f032e9ecf2f4"
+    },
+    {
+        "name": "French Beans",
+        "allergens": [],
+        "ingredient_id": "zIZIPDGIEA9WeAN4kzv8"
+    },
+    {
+        "name": "Soaked Lentils and Grains",
+        "allergens": [],
+        "ingredient_id": "cb65033f-9c1c-4e66-b9bb-0bd4701fe433"
+    },
+    {
+        "name": "Cilantro",
+        "allergens": [],
+        "ingredient_id": "075c9a3a-573c-4ff6-95e3-c9d6795d1843"
+    },
+    {
+        "name": "Boiled Chickpea without water",
+        "allergens": [],
+        "ingredient_id": "55ce993f-49a0-41ee-bf5e-76dc026b34b1"
+    },
+    {
+        "name": "English Cucumber",
+        "allergens": [],
+        "ingredient_id": "xwVNqY5KJKKDyU7glw36"
+    },
+    {
+        "name": "Amchur Powder",
+        "allergens": [],
+        "ingredient_id": "EOe2f6gS0lsLy1hlnGj2"
+    },
+    {
+        "name": "Cooked Greens",
+        "allergens": [],
+        "ingredient_id": "f43fcf90-e389-4466-8f1d-0f2be7597fa2"
+    },
+    {
+        "name": "Masoor Dal- Split",
+        "allergens": [],
+        "ingredient_id": "QcoIrDXaVSWozVIqPd5z"
+    },
+    {
+        "name": "Liquid Dishwashing Detergent",
+        "allergens": [],
+        "ingredient_id": "Zx73y4FQjWLRkJMGakhq"
+    },
+    {
+        "name": "Kala Khatta Syrup",
+        "allergens": [],
+        "ingredient_id": "742f347a-e196-426a-bb40-be5bf08ee7d2"
+    },
+    {
+        "name": "Jagermeister",
+        "allergens": [],
+        "ingredient_id": "c07d1890-2aff-48f5-bf60-89f37bc7aca5"
+    },
+    {
+        "name": "Barnyard Millets",
+        "allergens": [],
+        "ingredient_id": "98d88a28-c308-40c8-86e4-ebcedc5e0e39"
+    },
+    {
+        "name": "Filter Coffee Decoction",
+        "allergens": [],
+        "ingredient_id": "DRxgvTygBpiqVky300NT"
+    },
+    {
+        "name": "Bathua (Chenopodium)",
+        "allergens": [],
+        "ingredient_id": "1545b9b0-fbbb-4ab2-95c4-6e9cf71740fb"
+    },
+    {
+        "name": "Cubed Chicken Breast",
+        "allergens": [],
+        "ingredient_id": "hB2C0ylhqp0h1nenx4kc"
+    },
+    {
+        "name": "Hing",
+        "allergens": [],
+        "ingredient_id": "4kKGDfQOHL0RoVKYsxae"
+    },
+    {
+        "name": "De-seeded Mango",
+        "allergens": [],
+        "ingredient_id": "af2eefe2-1660-4485-a222-b44fb7ea19a2"
+    },
+    {
+        "name": "Carrot",
+        "allergens": [],
+        "ingredient_id": "QfTyhSYFVFQZbpVb9nix"
+    },
+    {
+        "name": "Triple Sec",
+        "allergens": [],
+        "ingredient_id": "d043c6e7-e5a4-4c67-bd25-bb36af4e04b7"
+    },
+    {
+        "name": "Sweet Condensed Milk",
+        "allergens": [],
+        "ingredient_id": "2b0be804-3888-401d-a4c8-c0d612e4d67d"
+    },
+    {
+        "name": "Gin",
+        "allergens": [],
+        "ingredient_id": "21a63b56-474c-4d2d-8912-8b79efa80122"
+    },
+    {
+        "name": "Soaked Daliya",
+        "allergens": [],
+        "ingredient_id": "9e138de7-7190-402a-add1-e9771ef7dd1b"
+    },
+    {
+        "name": "Soaked Ingredients",
+        "allergens": [],
+        "ingredient_id": "49a82cdf-88ec-4a7b-89b1-c2d78e5677f9"
+    },
+    {
+        "name": "Parmesan Cheese Block",
+        "allergens": [
+            "dairy"
+        ],
+        "ingredient_id": "61f53465-2e23-4b74-8694-76f0f97b2e2f"
+    },
+    {
+        "name": "Sambar Onions (Shallots)",
+        "allergens": [],
+        "ingredient_id": "6Rmr3bma9PU4DRs54wfQ"
+    },
+    {
+        "name": "Baking Soda",
+        "allergens": [],
+        "ingredient_id": "oouospFqrlLARWcB0zT7"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "f563a52b-d43b-4c6a-ac28-20e21b053ef4"
+    },
+    {
+        "name": "Scotch",
+        "allergens": [],
+        "ingredient_id": "82b0710c-2f61-49a0-bba9-1dff805cc52c"
+    },
+    {
+        "name": "Coconut ",
+        "allergens": [],
+        "ingredient_id": "StB8EV0juW84NbPKvv6D"
+    },
+    {
+        "name": "Boiled Milk",
+        "allergens": [],
+        "ingredient_id": "edc8ecaf-5474-4796-a68e-20f7dd804484"
+    },
+    {
+        "name": "Boiled Chickpeas and Potatoes",
+        "allergens": [],
+        "ingredient_id": "eb23b454-11bb-4667-a7c1-addf075a8e04"
+    },
+    {
+        "name": "Ridge Gourd",
+        "allergens": [],
+        "ingredient_id": "790f7117-0811-4d37-96d5-b04c1ddb0d4a"
+    },
+    {
+        "name": "Ramyeon Noodles",
+        "allergens": [],
+        "ingredient_id": "e0df867f-7f6b-4b75-b58e-e31bd9d95e7f"
+    },
+    {
+        "name": "Seaweed",
+        "allergens": [],
+        "ingredient_id": "2a010719-0b4f-4c1b-9e64-5c3dc80fcb2f"
+    },
+    {
+        "name": "Nutmeg",
+        "allergens": [],
+        "ingredient_id": "35259c44-b26f-4418-bffb-b6ad9d987492"
+    },
+    {
+        "name": "Dry Yeast",
+        "allergens": [],
+        "ingredient_id": "8f710a8b-095e-4ecd-ae9f-fdef0844bcc7"
+    },
+    {
+        "name": "Basmati Rice",
+        "allergens": [],
+        "ingredient_id": "ErabFkxFKvMgpveUMe6H"
+    },
+    {
+        "name": "Bay Leaf",
+        "allergens": [],
+        "ingredient_id": "hiH7Psc3b9LyUWc7XRz3"
+    },
+    {
+        "name": "Cashews",
+        "allergens": [],
+        "ingredient_id": "aYcRPz67w27s89UH1LKS"
+    },
+    {
+        "name": "Coriander Seeds",
+        "allergens": [],
+        "ingredient_id": "a7c9d2be-c117-40d2-9faf-b9279bec228d"
+    },
+    {
+        "name": "Green Chilli",
+        "allergens": [],
+        "ingredient_id": "1Ky6vVG6LIdXgQ77KpUf"
+    },
+    {
+        "name": "Campari",
+        "allergens": [],
+        "ingredient_id": "25773f9b-578c-4b4c-8c37-8c28ecfece41"
+    },
+    {
+        "name": "Diced Ridge Gourd",
+        "allergens": [],
+        "ingredient_id": "c2908ff8-0ade-4a97-8bcb-a0982e47fc9f"
+    },
+    {
+        "name": "Rawa Idli Mix",
+        "allergens": [],
+        "ingredient_id": "b7f04443-e153-4312-afb9-eadfd2175a2d"
+    },
+    {
+        "name": "Tofu",
+        "allergens": [],
+        "ingredient_id": "pXrIgBvULgjy5V3hgHvw"
+    },
+    {
+        "name": "Nutmeg",
+        "allergens": [],
+        "ingredient_id": "b77fcd70-989d-452a-a0d3-2aa3d247b4e2"
+    },
+    {
+        "name": "Yellow Bell Pepper",
+        "allergens": [],
+        "ingredient_id": "a5NL077S1MNKw7XZkCRz"
+    },
+    {
+        "name": "Stuffed Brinjal",
+        "allergens": [],
+        "ingredient_id": "2ebdbd97-0dd9-4f88-9dcb-e2a528d7d355"
+    },
+    {
+        "name": "Sunflower Cold Pressed Oil",
+        "allergens": [],
+        "ingredient_id": "ebbd3582-e51b-4595-a4f5-0980d3f94edf"
+    },
+    {
+        "name": "Ragi Flour",
+        "allergens": [],
+        "ingredient_id": "dcfb246c-8cd1-4fbd-bc00-b318d573192a"
+    },
+    {
+        "name": "Tequila",
+        "allergens": [],
+        "ingredient_id": "86010414-dc01-4fa1-aa2a-497d11d36fa5"
+    },
+    {
+        "name": "Pork Belly",
+        "allergens": [],
+        "ingredient_id": "AdQ2rtlOTlweMxi4EETf"
+    },
+    {
+        "name": "White Rum",
+        "allergens": [],
+        "ingredient_id": "d6ddf4d2-9556-48c2-99dd-4ed164aaeb38"
+    },
+    {
+        "name": "Powdered Kolhapuri Masala",
+        "allergens": [],
+        "ingredient_id": "ec12cf07-ad64-47b7-a9eb-508e061af826"
+    },
+    {
+        "name": "Sautéed Chicken",
+        "allergens": [],
+        "ingredient_id": "6c944db1-93a7-4277-b01a-25294371f5aa"
+    },
+    {
+        "name": "Urad Dal Wadiyan",
+        "allergens": [],
+        "ingredient_id": "04074c36-63ef-456f-89d6-f4153f1a3e25"
+    },
+    {
+        "name": "Granulated Sugar",
+        "allergens": [],
+        "ingredient_id": "d3f056f8-cf17-4784-81d7-89c6440e357c"
+    },
+    {
+        "name": "Vinegar",
+        "allergens": [],
+        "ingredient_id": "kdqZfRgH13tMOn2pQtXO"
+    },
+    {
+        "name": "Black Pepper",
+        "allergens": [],
+        "ingredient_id": "AvhXCLEEwXTlcO2zl5zM"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "b996dc3f-be4a-4d06-9012-84e9a770b9a5"
+    },
+    {
+        "name": "Blended Paste",
+        "allergens": [],
+        "ingredient_id": "7a635d8d-dd87-41d2-a123-b3af5ade733c"
+    },
+    {
+        "name": "Vanilla Flavoured Syrup",
+        "allergens": [],
+        "ingredient_id": "2cbce825-935e-4f66-9bf1-68621be20671"
+    },
+    {
+        "name": "Button Mushroom",
+        "allergens": [
+            "Mushroom"
+        ],
+        "ingredient_id": "hQJXWjhOTp7vbHxPBw5P"
+    },
+    {
+        "name": "Soaked Peanuts",
+        "allergens": [],
+        "ingredient_id": "8a4caf3d-19c1-4fd1-92e3-84621cd68d08"
+    },
+    {
+        "name": "Banana",
+        "allergens": [],
+        "ingredient_id": "aa1cffa4-fefa-423b-80ac-f46311ea6fd1"
+    },
+    {
+        "name": "Boiled Peanuts",
+        "allergens": [],
+        "ingredient_id": "7468ac0d-81fd-4361-8db5-f896c22a315f"
+    },
+    {
+        "name": "Tiggle Jaggery Hot Chocolate",
+        "allergens": [],
+        "ingredient_id": "aba30d2d-80cb-4a13-86fb-a6c2daf94169"
+    },
+    {
+        "name": "Black Sesame Seeds",
+        "allergens": [
+            "Sesame"
+        ],
+        "ingredient_id": "osEDHVtcQT6QTizaRXkT"
+    },
+    {
+        "name": "Spring Onion Green",
+        "allergens": [],
+        "ingredient_id": "SuDLCYBSEscF01xCFRJ4"
+    },
+    {
+        "name": "Sautéed Spices",
+        "allergens": [],
+        "ingredient_id": "0e8ff306-fbd5-4e74-a67f-bca9dffccddd"
+    },
+    {
+        "name": "Cowpea",
+        "allergens": [],
+        "ingredient_id": "a0735ba9-5c3b-4f83-8bde-8892678fc00e"
+    },
+    {
+        "name": "Piri Piri Spice Mix",
+        "allergens": [],
+        "ingredient_id": "14a4093d-fa1b-4bb7-91b4-389c363c66e9"
+    },
+    {
+        "name": "White Rum",
+        "allergens": [],
+        "ingredient_id": "wS2tNO86OEqsrh7KgP3Y"
+    },
+    {
+        "name": "Coca Cola",
+        "allergens": [],
+        "ingredient_id": "1909f6d3-3b39-4444-8888-cf70c53c5c7a"
+    },
+    {
+        "name": "Tomato",
+        "allergens": [
+            "Tomato"
+        ],
+        "ingredient_id": "zZZm2QdFD1w4if8P5Mll"
+    },
+    {
+        "name": "Spinach",
+        "allergens": [],
+        "ingredient_id": "fhFdCfUjudW5Gs7SeiVJ"
+    },
+    {
+        "name": "Bok Choy",
+        "allergens": [],
+        "ingredient_id": "ezlhe2r2s3fBRXCRhUHD"
+    },
+    {
+        "name": "Wai Wai Noodles",
+        "allergens": [],
+        "ingredient_id": "sNvR2lEon609ilVEr7qX"
+    },
+    {
+        "name": "Nigella Seeds",
+        "allergens": [],
+        "ingredient_id": "e6f137d1-e923-41fc-8474-8735fa1b78eb"
+    },
+    {
+        "name": "Vodka",
+        "allergens": [],
+        "ingredient_id": "8390913e-179d-44c7-a336-7a2461beac66"
+    },
+    {
+        "name": "Drumstick",
+        "allergens": [],
+        "ingredient_id": "c0hLpO44GAdeMp1kZHMR"
+    },
+    {
+        "name": "Crumbled Paneer",
+        "allergens": [],
+        "ingredient_id": "36833346-218e-4e5f-bd2e-52041a775b24"
+    },
+    {
+        "name": "Peeled Banana",
+        "allergens": [],
+        "ingredient_id": "ihRhv1FXvmYEVeLs7nhQ"
+    },
+    {
+        "name": "Soaked Ingredients",
+        "allergens": [],
+        "ingredient_id": "6b5aa857-9590-4128-86db-570469088ef3"
+    },
+    {
+        "name": "Chopped Nuts",
+        "allergens": [],
+        "ingredient_id": "504ac175-4da6-4171-94fc-4ff7d45ee679"
+    },
+    {
+        "name": "Brinjal",
+        "allergens": [],
+        "ingredient_id": "wJ8LGsRmEFk87sTWnJdB"
+    },
+    {
+        "name": "Brown Sugar",
+        "allergens": [],
+        "ingredient_id": "zi6J5HV8FMQNeg0LMhW0"
+    },
+    {
+        "name": "Ice Cubes",
+        "allergens": [],
+        "ingredient_id": "z1mYgPBYXGgKAtjwItoO"
+    },
+    {
+        "name": "Zucchini",
+        "allergens": [],
+        "ingredient_id": "YZJypF7J7qoqJ5JcuzXs"
+    },
+    {
+        "name": "Tomato Juice",
+        "allergens": [
+            "Tomato"
+        ],
+        "ingredient_id": "8e503519-2042-4e2c-972c-1fb2a3f17b69"
+    },
+    {
+        "name": "Medium Tapioca Pearls",
+        "allergens": [],
+        "ingredient_id": "b8301341-efcd-425c-86f0-e282415f4a9b"
+    },
+    {
+        "name": "Boiled Mutton",
+        "allergens": [],
+        "ingredient_id": "5de81c5e-f307-4ce7-b9a8-9a0a6609c8ed"
+    },
+    {
+        "name": "Boiled Cowpea",
+        "allergens": [],
+        "ingredient_id": "2a1e9c57-d4f5-43b2-a5e4-6adbbcb0e680"
+    },
+    {
+        "name": "Oil",
+        "allergens": [],
+        "ingredient_id": "01422b93-ff66-4d62-bba8-2036d4bd17e5"
+    },
+    {
+        "name": "Green Grapes",
+        "allergens": [],
+        "ingredient_id": "0880bf84-2b37-4b11-9ca1-18cd22e1c570"
+    },
+    {
+        "name": "Warm Water",
+        "allergens": [],
+        "ingredient_id": "2ef973d7-66bb-49f8-b8cf-1aad3cece9b4"
+    },
+    {
+        "name": "Brown Rice",
+        "allergens": [],
+        "ingredient_id": "s4yqrPFXXbgfwR9cLryS"
+    },
+    {
+        "name": "Anardana Powder",
+        "allergens": [],
+        "ingredient_id": "e92cf6be-e388-4594-ab84-3ee98d2e1554"
+    },
+    {
+        "name": "Raw Banana",
+        "allergens": [],
+        "ingredient_id": "c98f402d-eda3-4c9f-a157-dad0587dbf89"
+    },
+    {
+        "name": "Poppy Seeds",
+        "allergens": [],
+        "ingredient_id": "b71bb383-4072-4dc3-b6a9-21e8588441d5"
+    },
+    {
+        "name": "vivek",
+        "allergens": [],
+        "ingredient_id": "d558ee99-e15f-492c-8c6b-3d003752f0c9"
+    },
+    {
+        "name": "Powdered Ghee Roast Masala",
+        "allergens": [],
+        "ingredient_id": "e6f28103-b0d7-41b1-ac80-6069807ff67d"
+    },
+    {
+        "name": "Soaked Tapioca Pearls",
+        "allergens": [],
+        "ingredient_id": "bbde350f-fcfa-45bd-af6d-deddaa049460"
+    },
+    {
+        "name": "Small Onion",
+        "allergens": [],
+        "ingredient_id": "1929736e-dda3-4fd6-8981-117dc93705a3"
+    },
+    {
+        "name": "Rice Flour",
+        "allergens": [],
+        "ingredient_id": "Pg1Y2zYo7CTbJxDcTpD9"
+    },
+    {
+        "name": "Limes",
+        "allergens": [],
+        "ingredient_id": "066ef897-c99e-4d9c-ba56-f9d04bdde6a0"
+    },
+    {
+        "name": "Marinated Chicken Breast",
+        "allergens": [],
+        "ingredient_id": "FZ4d1fiWJVCMuKgCw0qR"
+    },
+    {
+        "name": "Maggi Magic Masala",
+        "allergens": [],
+        "ingredient_id": "44f17636-325b-49e6-85e4-e146f864ce31"
+    },
+    {
+        "name": "Modak Filling",
+        "allergens": [],
+        "ingredient_id": "b3a79285-8361-4af3-8037-f94473a251f8"
+    },
+    {
+        "name": "Jain Tomato Ketchup⤴️",
+        "allergens": [],
+        "ingredient_id": "32333bb0-7156-4552-b39c-9a9e409dad92"
+    },
+    {
+        "name": "Seasoned Sabudana",
+        "allergens": [],
+        "ingredient_id": "79216e6a-cbd0-4f83-8b7b-074e774643e8"
+    },
+    {
+        "name": "Processed Tomatoes",
+        "allergens": [],
+        "ingredient_id": "fe5f6681-51f9-4ae0-92ab-67f101efd944"
+    },
+    {
+        "name": "Boiled Mutton and Dal",
+        "allergens": [],
+        "ingredient_id": "45e00e15-45af-4b96-8276-27076f9d4aa2"
+    },
+    {
+        "name": "Crushed Peanuts",
+        "allergens": [],
+        "ingredient_id": "f17f537e-ab09-4c10-9fed-4a260a666b0f"
+    },
+    {
+        "name": "Butter",
+        "allergens": [],
+        "ingredient_id": "0lagzniWLWGKqtJjumqt"
+    },
+    {
+        "name": "Processed Small Onion",
+        "allergens": [],
+        "ingredient_id": "986c063d-cc76-417c-bb36-2752ea36c9b1"
+    },
+    {
+        "name": "Goda Masala",
+        "allergens": [],
+        "ingredient_id": "862fad20-bbf1-46dc-bf01-5ea565b5699e"
+    },
+    {
+        "name": "Washed Chicken",
+        "allergens": [],
+        "ingredient_id": "vxftIkYjc11ErYOQyIXk"
+    },
+    {
+        "name": "Dried Basil",
+        "allergens": [],
+        "ingredient_id": "196af912-61d3-45d8-b0d4-090f0e32780e"
+    },
+    {
+        "name": "Potato",
+        "allergens": [],
+        "ingredient_id": "ENok1QTkd1rvcp58Gbqu"
+    },
+    {
+        "name": "Split Urad Dal",
+        "allergens": [],
+        "ingredient_id": "c14d6df3-b13c-4ac1-ac02-de79da363040"
+    },
+    {
+        "name": "Mutton Keema",
+        "allergens": [],
+        "ingredient_id": "62a15916-9414-4f07-9902-255b38dfafc9"
+    },
+    {
+        "name": "Extra Desiccated Coconut",
+        "allergens": [],
+        "ingredient_id": "80c0047b-ccd4-4d66-9948-709c82195d12"
+    },
+    {
+        "name": "Tiggle Dark Hot Chocolate",
+        "allergens": [],
+        "ingredient_id": "2fb72008-74e8-4f9b-b406-782844331da9"
+    },
+    {
+        "name": "Coconut Water",
+        "allergens": [],
+        "ingredient_id": "f7888c53-d396-4c94-8d31-e97373b291f2"
+    },
+    {
+        "name": "Khow Suey Paste",
+        "allergens": [],
+        "ingredient_id": "bf0ee7e4-49ee-4389-9fd7-1ef16c6ece89"
+    },
+    {
+        "name": "Frying Oil",
+        "allergens": [],
+        "ingredient_id": "cd8a1579-b614-4e87-a4f8-361a7062efc8"
+    },
+    {
+        "name": "Split Green Gram",
+        "allergens": [],
+        "ingredient_id": "7cc265bf-8fc1-4633-9632-b53484b3cd41"
+    },
+    {
+        "name": "Port Wine",
+        "allergens": [],
+        "ingredient_id": "da0a2beb-8b41-4b57-b6a5-5ccd7a4ced1d"
+    },
+    {
+        "name": "Oil",
+        "allergens": [],
+        "ingredient_id": "d8ae4928-98f9-4d0f-a5fd-636e18b43795"
+    },
+    {
+        "name": "Processed Mint",
+        "allergens": [],
+        "ingredient_id": "e1bb9ab3-5a0e-48ea-ae20-d594721ef1d9"
+    },
+    {
+        "name": "Arhar Dal",
+        "allergens": [],
+        "ingredient_id": "9278fb55-5f8f-4a10-9c0f-18d6ac15812d"
+    },
+    {
+        "name": "Moong Dal Split - Yellow",
+        "allergens": [],
+        "ingredient_id": "4EXXPw6Tk4Q6hpoQx438"
+    },
+    {
+        "name": "Frozen Sorbet",
+        "allergens": [],
+        "ingredient_id": "f136d829-79ca-48d5-ac89-2b4e3b5dc6fa"
+    },
+    {
+        "name": "Prepared Thickener",
+        "allergens": [],
+        "ingredient_id": "LEQYeIe6WHLWNflzqToM"
+    },
+    {
+        "name": "Cut Broccoli",
+        "allergens": [],
+        "ingredient_id": "cd306bde-2071-4392-8afe-e20b81c5e716"
+    },
+    {
+        "name": "Wine",
+        "allergens": [],
+        "ingredient_id": "oUtmlp5NfXzMte32EC9B"
+    },
+    {
+        "name": "Orange Juice",
+        "allergens": [],
+        "ingredient_id": "a54079ae-3af7-4408-b0cd-fb0b3fb1113b"
+    },
+    {
+        "name": "Washed Cowpea",
+        "allergens": [],
+        "ingredient_id": "d5122167-3cc4-45a4-8008-174af9904d36"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "0eb4176e-1830-4580-9f29-0cc13bea0810"
+    },
+    {
+        "name": "Refined Flour (Maida)",
+        "allergens": [],
+        "ingredient_id": "30DXZbb99hhhGKktwdca"
+    },
+    {
+        "name": "Cinnamon Powder",
+        "allergens": [],
+        "ingredient_id": "7gzzhSfELockQkJVLmiq"
+    },
+    {
+        "name": "Whole Wheat Noodles",
+        "allergens": [
+            "Gluten"
+        ],
+        "ingredient_id": "7GnO9seCaul0EYqx6n6y"
+    },
+    {
+        "name": "Panch Phoran",
+        "allergens": [],
+        "ingredient_id": "66DfNZDRkBZmOUibHi69"
+    },
+    {
+        "name": "Mutton Stock",
+        "allergens": [],
+        "ingredient_id": "fc986569-442a-40eb-84a5-d529638d8d87"
+    },
+    {
+        "name": "Washed Dal and Rice",
+        "allergens": [],
+        "ingredient_id": "4K53nXYrttAZSM4jtKlW"
+    },
+    {
+        "name": "Gojju Powder",
+        "allergens": [],
+        "ingredient_id": "7Tk4HT4YMrTz4EIBjBFa"
+    },
+    {
+        "name": "Dark Soy Sauce",
+        "allergens": [
+            "Soy"
+        ],
+        "ingredient_id": "Tw34k3ykswOBAhV9uloN"
+    },
+    {
+        "name": "Marinated Paneer",
+        "allergens": [],
+        "ingredient_id": "650BX35GLcqqpZRLOJh5"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "72708984-67b1-4901-80d5-a1a932fd85bd"
+    },
+    {
+        "name": "Dried Green Peas",
+        "allergens": [],
+        "ingredient_id": "b7211eae-d44c-4262-bc9f-090eb7c8e097"
+    },
+    {
+        "name": "Arborio Rice",
+        "allergens": [],
+        "ingredient_id": "e05d1f91-b5ff-40a8-8281-36e999d67524"
+    },
+    {
+        "name": "Pasta",
+        "allergens": [],
+        "ingredient_id": "1a0fa8d7-9414-4bf7-bbf5-bb64c158df05"
+    },
+    {
+        "name": "Chicken Boneless",
+        "allergens": [],
+        "ingredient_id": "656a29ba-a7af-4575-820b-5dd27f98bbd7"
+    },
+    {
+        "name": "Marinated Fish",
+        "allergens": [],
+        "ingredient_id": "6opqc0Rn7MMocnPbjaGI"
+    },
+    {
+        "name": "Chips",
+        "allergens": [],
+        "ingredient_id": "6a884ec4-6e0e-403e-9844-9e61d3230d1f"
+    },
+    {
+        "name": "Honey",
+        "allergens": [
+            "Honey"
+        ],
+        "ingredient_id": "wWcomJXs8NRLjn4PUKkg"
+    },
+    {
+        "name": "Jeera Powder",
+        "allergens": [],
+        "ingredient_id": "670be9e6-5841-4ddc-b888-06c3c783b62f"
+    },
+    {
+        "name": "Pasta - Penne",
+        "allergens": [
+            "Gluten"
+        ],
+        "ingredient_id": "8ERA3A4gYaaJBrdpJlRX"
+    },
+    {
+        "name": "Mixed Seeds",
+        "allergens": [],
+        "ingredient_id": "9gPdETSbZMIvbFEZzV4t"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "29e98134-cec1-48b9-9b53-b2736b366b7c"
+    },
+    {
+        "name": "Penne Pasta",
+        "allergens": [],
+        "ingredient_id": "DJWvMavxR9Cbi6YFSyUl"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "634da0a6-edc2-4d3f-bbb8-99747a0bd405"
+    },
+    {
+        "name": "Washed Poha",
+        "allergens": [],
+        "ingredient_id": "L7b0kdalS16qaz9zbojL"
+    },
+    {
+        "name": "Boiled Barley",
+        "allergens": [],
+        "ingredient_id": "I7cVgsMxSDY32BYewWKB"
+    },
+    {
+        "name": "Boiled Daliya",
+        "allergens": [],
+        "ingredient_id": "GfZ0tzZzWYuGk3ircUEm"
+    },
+    {
+        "name": "Kurkure",
+        "allergens": [],
+        "ingredient_id": "a39beea2-3182-4f78-8469-ab84723e0542"
+    },
+    {
+        "name": "Curry Leaves",
+        "allergens": [],
+        "ingredient_id": "QTPKLhE8rCGl2N62dytW"
+    },
+    {
+        "name": "Mutton - Curry Cut",
+        "allergens": [],
+        "ingredient_id": "eb390771-ea18-4fbb-b7f3-60fbde31e675"
+    },
+    {
+        "name": "Parsley",
+        "allergens": [],
+        "ingredient_id": "cJvpPYfSg5s1aEaEzPv8"
+    },
+    {
+        "name": "Rosemary",
+        "allergens": [],
+        "ingredient_id": "GBA41nBaoOdYgL87bWOO"
+    },
+    {
+        "name": "Sautéed Mushroom and Spinach ",
+        "allergens": [],
+        "ingredient_id": "FdwSIPgtYwTDdo1ixJRU"
+    },
+    {
+        "name": "Tomato Ketchup⤴️",
+        "allergens": [],
+        "ingredient_id": "WvmchGeSRPIWrAu7l6bP"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "868cbb0d-c9ec-49b4-b4f9-d58e1d0f2a33"
+    },
+    {
+        "name": "Boiled Peas and Potatoes",
+        "allergens": [],
+        "ingredient_id": "eb20a3ee-a4d6-4ab8-9cca-3ac1aa4f2ccb"
+    },
+    {
+        "name": "Boiled Rice",
+        "allergens": [],
+        "ingredient_id": "PAOvT0HDCQ6t77HoE6hB"
+    },
+    {
+        "name": "Processed Cauliflower",
+        "allergens": [],
+        "ingredient_id": "VY8Pqu1ObHcFdekNOy5A"
+    },
+    {
+        "name": "Dried Parsley",
+        "allergens": [],
+        "ingredient_id": "PfnaPS4IVOyfrpL8VmjQ"
+    },
+    {
+        "name": "Green Olives",
+        "allergens": [],
+        "ingredient_id": "c64f31ff-a966-454f-a102-cfec058800d0"
+    },
+    {
+        "name": "Boiled Potatoes",
+        "allergens": [],
+        "ingredient_id": "ce601545-bcb9-444a-8a31-2d8eb7902033"
+    },
+    {
+        "name": "Maggi Tastemaker",
+        "allergens": [],
+        "ingredient_id": "PaSWargKDPIWcTFCGwgT"
+    },
+    {
+        "name": "Cinnamon Stick",
+        "allergens": [],
+        "ingredient_id": "VXDPpTp9C1Srkn8y6lQo"
+    },
+    {
+        "name": "Marinated Vegetables",
+        "allergens": [],
+        "ingredient_id": "NhJhFDh77fIfy4ekmde7"
+    },
+    {
+        "name": "Peeled Mango",
+        "allergens": [],
+        "ingredient_id": "9a5e27bb-0084-48eb-903a-bd0782cd5c57"
+    },
+    {
+        "name": "Corn",
+        "allergens": [],
+        "ingredient_id": "fb6bbb91-d100-48a9-ba29-8872736334b1"
+    },
+    {
+        "name": "Kesari Powder",
+        "allergens": [],
+        "ingredient_id": "e821343c-e53e-4e1b-82cd-3aff63d1fc3c"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "b066bd6f-e2ba-4cda-a19c-88a685d0b490"
+    },
+    {
+        "name": "Knorr Chicken Cubes",
+        "allergens": [],
+        "ingredient_id": "Wzt0P5VeKpInMdzVaF2L"
+    },
+    {
+        "name": "Chicken Biryani Masala",
+        "allergens": [],
+        "ingredient_id": "YoJIzl6zGaAHaK0vL8s4"
+    },
+    {
+        "name": "Cling Wrap",
+        "allergens": [],
+        "ingredient_id": "WRJ9X2v4C2kykjJMfSEg"
+    },
+    {
+        "name": "Boiled Barley + Water",
+        "allergens": [],
+        "ingredient_id": "XVLej6LJr9n3kQ2S3C1f"
+    },
+    {
+        "name": "Boiled Quinoa",
+        "allergens": [],
+        "ingredient_id": "T4M91getJlFbDwlLwky2"
+    },
+    {
+        "name": "Cooked Rice",
+        "allergens": [],
+        "ingredient_id": "bPzGql7rlvWLhj4OJCJg"
+    },
+    {
+        "name": "Diced Pork Belly",
+        "allergens": [],
+        "ingredient_id": "I9MxVWsPKJ3mn6VKWSM2"
+    },
+    {
+        "name": "Ginger",
+        "allergens": [],
+        "ingredient_id": "sHTx0cIRlAbr23BUBy6H"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "c8df126c-9f9a-4df9-bf6b-235003df24a1"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "998858c2-76a1-46ed-976d-201d20f644c8"
+    },
+    {
+        "name": "Washed Chicken Breast",
+        "allergens": [],
+        "ingredient_id": "WNyQxcrCvMK8i9h7WI3j"
+    },
+    {
+        "name": "Diced Zucchini",
+        "allergens": [],
+        "ingredient_id": "b7b972b0-c59e-4598-87ad-458c71a0bcd1"
+    },
+    {
+        "name": "MasterChow Sweet & Spicy",
+        "allergens": [],
+        "ingredient_id": "92e97e80-a337-46ba-97db-ead6472e7b04"
+    },
+    {
+        "name": "Boiled Soya",
+        "allergens": [
+            "Soy"
+        ],
+        "ingredient_id": "6iIgmhDXsnfSBLYaWygo"
+    },
+    {
+        "name": "Boiled Tomatoes",
+        "allergens": [],
+        "ingredient_id": "7daac921-e436-4440-bd35-1e9a14af28cf"
+    },
+    {
+        "name": "Processed Spinach",
+        "allergens": [],
+        "ingredient_id": "dUjXyjTk0BwegoBHRXpV"
+    },
+    {
+        "name": "Paneer Chilli Masala",
+        "allergens": [],
+        "ingredient_id": "dZlZfO6tV7lWF9wLhVm5"
+    },
+    {
+        "name": "Defrosted Chicken Breast",
+        "allergens": [],
+        "ingredient_id": "gJv8CeM9aFkDiPZNMvZU"
+    },
+    {
+        "name": "Feta Cheese",
+        "allergens": [],
+        "ingredient_id": "0b6e022d-e16a-419b-b50c-ab169f97a8dd"
+    },
+    {
+        "name": "Sticky Rice",
+        "allergens": [],
+        "ingredient_id": "f2dee86f-ca4c-41b2-932b-f32f98b60c13"
+    },
+    {
+        "name": "Prepared Sauce",
+        "allergens": [],
+        "ingredient_id": "e8XEbAPgJs6HSDtPf6ji"
+    },
+    {
+        "name": "Processed Methi",
+        "allergens": [],
+        "ingredient_id": "jXUEROYXFujoReBDt8S7"
+    },
+    {
+        "name": "Rice Paper",
+        "allergens": [],
+        "ingredient_id": "71d19ae7-6533-4c86-9d5d-182dc7374b9f"
+    },
+    {
+        "name": "Sesame Oil",
+        "allergens": [
+            "Sesame"
+        ],
+        "ingredient_id": "y0gL6cpiRcpNNsjkd63U"
+    },
+    {
+        "name": "Wai Wai Taste Enhancer",
+        "allergens": [],
+        "ingredient_id": "gvqPOrNopFyW3adRhQzG"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "d17ce5ca-984b-4b3c-8d6d-68ace7f4b67f"
+    },
+    {
+        "name": "Fried Fish",
+        "allergens": [
+            "Fish"
+        ],
+        "ingredient_id": "jMnpJsWS2jSk24mxvLBA"
+    },
+    {
+        "name": "Leek",
+        "allergens": [],
+        "ingredient_id": "b61fadde-e85e-46c6-a295-51add1e34942"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "63217aa4-43ee-4569-8a10-7139a59ae3e9"
+    },
+    {
+        "name": "Marinated Chicken",
+        "allergens": [],
+        "ingredient_id": "k7wIMWSPP3eEOoqT2bN1"
+    },
+    {
+        "name": "Boiled Barley & Corn",
+        "allergens": [],
+        "ingredient_id": "ea1c5ad9-3477-4b23-a97b-05e4304434ff"
+    },
+    {
+        "name": "Boiled Broccoli",
+        "allergens": [],
+        "ingredient_id": "nA61XLLE3J0R674Xa0xH"
+    },
+    {
+        "name": "Cream Chesse",
+        "allergens": [],
+        "ingredient_id": "cb611aca-3bdb-4753-b92c-2378b91fc19f"
+    },
+    {
+        "name": "Small Puri",
+        "allergens": [],
+        "ingredient_id": "d07ca9fe-1eca-45ac-8c66-220a8d40bbaa"
+    },
+    {
+        "name": "Magic Cubes",
+        "allergens": [],
+        "ingredient_id": "06131edc-9256-42c9-908c-6309380176ed"
+    },
+    {
+        "name": "Prepared Dressing",
+        "allergens": [],
+        "ingredient_id": "s3ebwuo5peMJG3ICQgar"
+    },
+    {
+        "name": "Nescafe Coffee Gold",
+        "allergens": [],
+        "ingredient_id": "d491c1d1-fbae-4b11-9dc9-464528d3e58f"
+    },
+    {
+        "name": "MasterChow Basil Sauce",
+        "allergens": [],
+        "ingredient_id": "a8a5ba18-53b4-49bc-a4ce-eb2c0250094f"
+    },
+    {
+        "name": "Mushrooms",
+        "allergens": [],
+        "ingredient_id": "c983e2d8-27b5-4602-84e7-47e0aef094d3"
+    },
+    {
+        "name": "Dill",
+        "allergens": [],
+        "ingredient_id": "4547da21-1930-4fed-a90d-421ac2a107e5"
+    },
+    {
+        "name": "Sausages",
+        "allergens": [],
+        "ingredient_id": "pmetZ8nYBrLZn3y3Llur"
+    },
+    {
+        "name": "Thick Curd",
+        "allergens": [],
+        "ingredient_id": "e24bc3b3-1877-4a1a-831f-9671044ef0de"
+    },
+    {
+        "name": "Boiled Pasta",
+        "allergens": [],
+        "ingredient_id": "pz9SfzkCCjvPH9LxAifo"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "426cd690-fcb1-452f-8f48-e330e5948fcb"
+    },
+    {
+        "name": "Dried Herbs",
+        "allergens": [],
+        "ingredient_id": "53d6dcf9-05ed-41b8-8f7d-d8e19685911e"
+    },
+    {
+        "name": "Nigella Seeds",
+        "allergens": [],
+        "ingredient_id": "831e721d-112e-4c68-bc2a-6303f7ab4e9a"
+    },
+    {
+        "name": "Pasta water",
+        "allergens": [],
+        "ingredient_id": "lvjH98UyoSw607osVXA5"
+    },
+    {
+        "name": "Pearl Barley",
+        "allergens": [
+            "Gluten"
+        ],
+        "ingredient_id": "7wnncGJdiLfZyvLY1EGz"
+    },
+    {
+        "name": "Soda",
+        "allergens": [],
+        "ingredient_id": "4ba7e5e5-e7d3-40b3-90aa-d35cb3573bae"
+    },
+    {
+        "name": "Parval (Pointed Gourd)",
+        "allergens": [],
+        "ingredient_id": "478edc09-bb67-46b2-bed3-fe2ebcff7315"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "eb213b4a-dc8f-40f0-8d47-b8274358d850"
+    },
+    {
+        "name": "Cooked pasta",
+        "allergens": [],
+        "ingredient_id": "rlH34AW7uMvuxaNAGrmv"
+    },
+    {
+        "name": "Chilli Vinegar",
+        "allergens": [],
+        "ingredient_id": "ufaY4EqTYLOju8D9pMBK"
+    },
+    {
+        "name": "Cookie Dough",
+        "allergens": [
+            "Gluten",
+            "Lactose"
+        ],
+        "ingredient_id": "t2tA5ZI1bE7arvHyaswY"
+    },
+    {
+        "name": "Kashmiri Mirch",
+        "allergens": [],
+        "ingredient_id": "onJWwkrwk8OPM9BsYQMA"
+    },
+    {
+        "name": "Marinated Pork",
+        "allergens": [],
+        "ingredient_id": "s1HfbgG2WkYugVXo95ml"
+    },
+    {
+        "name": "Puliogare Powder",
+        "allergens": [],
+        "ingredient_id": "UmLU9whC2VF9MHq9Kx7f"
+    },
+    {
+        "name": "Rajma",
+        "allergens": [],
+        "ingredient_id": "3aeaf965-d807-462f-a6be-471522ad9c5b"
+    },
+    {
+        "name": "Spring Onion Oil",
+        "allergens": [],
+        "ingredient_id": "aa425591-6501-4e18-983f-2ed0a1ff9ef4"
+    },
+    {
+        "name": "Washed Rajma",
+        "allergens": [],
+        "ingredient_id": "7d02951e-8a55-4e15-bef1-0565ffc2f5fa"
+    },
+    {
+        "name": "Green chilli without seeds",
+        "allergens": [],
+        "ingredient_id": "reVWuez3R30wJ5Hkq31t"
+    },
+    {
+        "name": "Spring Onion",
+        "allergens": [],
+        "ingredient_id": "65bcc8c3-0d79-4fba-9f06-302aa31f4751"
+    },
+    {
+        "name": "Soaked Peas",
+        "allergens": [],
+        "ingredient_id": "05819522-b42c-4b15-87f5-99bf004f61d4"
+    },
+    {
+        "name": "Boiled Rajma",
+        "allergens": [],
+        "ingredient_id": "eef34d1f-1f28-4687-844b-507ffd4a6c50"
+    },
+    {
+        "name": "Ripe Mango",
+        "allergens": [],
+        "ingredient_id": "17LvhELNRnAh9S4ZJ4ot"
+    },
+    {
+        "name": "Roasted Fox Nuts",
+        "allergens": [],
+        "ingredient_id": "df55bfc6-c87c-432d-9f1a-2368de0923b0"
+    },
+    {
+        "name": "Ginger Juliennes",
+        "allergens": [],
+        "ingredient_id": "78dcabab-99d6-4bab-88b0-f0a379d98676"
+    },
+    {
+        "name": "Mustard Seeds",
+        "allergens": [],
+        "ingredient_id": "SSkQlAri5V5Ip377WXqQ"
+    },
+    {
+        "name": "Test Ingredient",
+        "allergens": [],
+        "ingredient_id": "763fe343-0d27-481c-b21e-cf25687d79a8"
+    },
+    {
+        "name": "Soaked Dal",
+        "allergens": [],
+        "ingredient_id": "zc9U3AHq2ASzJyUtL7fl"
+    },
+    {
+        "name": "Kasoori Methi",
+        "allergens": [],
+        "ingredient_id": "ziBQ9ncdBfy81IfDf6Vd"
+    },
+    {
+        "name": "Rohu Steak",
+        "allergens": [
+            "Fish"
+        ],
+        "ingredient_id": "b7ed449d-071c-49e3-be37-9d2ceb8ee864"
+    },
+    {
+        "name": "Sugar",
+        "allergens": [],
+        "ingredient_id": "xyRF6lv4gXfptn8GRAPl"
+    },
+    {
+        "name": "Turmeric",
+        "allergens": [],
+        "ingredient_id": "VTEjzKIsFM7utlQq9vJS"
+    },
+    {
+        "name": "Peanuts (Raw)",
+        "allergens": [
+            "Peanut"
+        ],
+        "ingredient_id": "0yQHCru509tYFtYCGBuB"
+    },
+    {
+        "name": "Kewra Water",
+        "allergens": [],
+        "ingredient_id": "zsevviH9pyb3LznHRVvL"
+    },
+    {
+        "name": "Chana Dal",
+        "allergens": [],
+        "ingredient_id": "0pBQfuIHSjswN44Q2xRg"
+    },
+    {
+        "name": "Cauliflower",
+        "allergens": [],
+        "ingredient_id": "yVxLRnA74DmlpZWrXrLS"
+    },
+    {
+        "name": "Peeled Almonds",
+        "allergens": [],
+        "ingredient_id": "7e0c09ea-72ff-4a65-ad9e-e40b977322bd"
+    },
+    {
+        "name": "Powdered Dal",
+        "allergens": [],
+        "ingredient_id": "239530db-5102-47ab-b413-aae96d634213"
+    },
+    {
+        "name": "Pav",
+        "allergens": [],
+        "ingredient_id": "40c8391e-e437-473f-aa1a-0dc60d7aadfa"
+    },
+    {
+        "name": "Pasta - Fusilli",
+        "allergens": [
+            "Gluten"
+        ],
+        "ingredient_id": "0gQ0szqD2S6wQyJaiDqy"
+    },
+    {
+        "name": "Red Chilli Sauce",
+        "allergens": [],
+        "ingredient_id": "1nIqL0z7tfIFMhYbRVKt"
+    },
+    {
+        "name": "Suji",
+        "allergens": [
+            "Gluten"
+        ],
+        "ingredient_id": "xJqY0bnJjwLpLFPYGfrL"
+    },
+    {
+        "name": "Sweet Corn",
+        "allergens": [],
+        "ingredient_id": "1prffNgIrIg5NVN8ycDa"
+    },
+    {
+        "name": "Beetroot",
+        "allergens": [],
+        "ingredient_id": "rqxInGeINHSlPkQWlbo4"
+    },
+    {
+        "name": "Raw Papaya",
+        "allergens": [],
+        "ingredient_id": "cafe4b0d-438a-42b8-a849-51946165154e"
+    },
+    {
+        "name": "Beef",
+        "allergens": [],
+        "ingredient_id": "82ba1332-4d81-4492-ac4d-48073908846b"
+    },
+    {
+        "name": "Choco Chip",
+        "allergens": [],
+        "ingredient_id": "F3FDUQhaFDesyZwLjJuU"
+    },
+    {
+        "name": "Fusilli whole wheat pasta",
+        "allergens": [
+            "Gluten"
+        ],
+        "ingredient_id": "3P1kANhsBK7x6AjBQ7A8"
+    },
+    {
+        "name": "Corn Flour",
+        "allergens": [
+            "Gluten"
+        ],
+        "ingredient_id": "3PryEjVXSIiO8dv3cQXj"
+    },
+    {
+        "name": "Instant Oats",
+        "allergens": [
+            "Gluten"
+        ],
+        "ingredient_id": "3Hzvvb0suexaAcv8mZ0U"
+    },
+    {
+        "name": "Puffed Rice (Murmure)",
+        "allergens": [],
+        "ingredient_id": "3Xwv4rfbPW7jn0UICcig"
+    },
+    {
+        "name": "Sambar Powder",
+        "allergens": [],
+        "ingredient_id": "3jqcuqHsCzFwHFKSDz7V"
+    },
+    {
+        "name": "Sona Masoori Rice",
+        "allergens": [],
+        "ingredient_id": "3nFivMcfyr43axa9GFOc"
+    },
+    {
+        "name": "TetraPak Milk",
+        "allergens": [
+            "Lactose"
+        ],
+        "ingredient_id": "4Ddj6JGRrbfj7TAx0G6V"
+    },
+    {
+        "name": "Indian Cucumber",
+        "allergens": [],
+        "ingredient_id": "7iiqCIxMy5mB6HPxAgTs"
+    },
+    {
+        "name": "Instant Dal Mix",
+        "allergens": [],
+        "ingredient_id": "7eecdfda-2ae6-4e10-88d0-a1df1abfa678"
+    },
+    {
+        "name": "Clove",
+        "allergens": [],
+        "ingredient_id": "FDgLngbaPeH5mOuwdJub"
+    },
+    {
+        "name": "Mustard Sauce",
+        "allergens": [],
+        "ingredient_id": "9dEeOhdxinI07BZqjaKK"
+    },
+    {
+        "name": "Instant Noodles",
+        "allergens": [],
+        "ingredient_id": "TrU4nlRKtMeoI1wgd0Ia"
+    },
+    {
+        "name": "Lemon Juice",
+        "allergens": [],
+        "ingredient_id": "E5HMAX8VVDyg4VGB7sVA"
+    },
+    {
+        "name": "Mayonnaise",
+        "allergens": [
+            "Egg"
+        ],
+        "ingredient_id": "AxAkOe8Hthmak7OQnO7e"
+    },
+    {
+        "name": "Pav Bhaji Masala",
+        "allergens": [],
+        "ingredient_id": "CumayJXC3cCMbCRbgdZ4"
+    },
+    {
+        "name": "Chilli",
+        "allergens": [],
+        "ingredient_id": "754c08cf-d93f-4d44-bd24-7ceb85849366"
+    },
+    {
+        "name": "Chicken - Breast",
+        "allergens": [],
+        "ingredient_id": "E4dmxr0oUB3CRoG2V7jL"
+    },
+    {
+        "name": "Soybeans",
+        "allergens": [],
+        "ingredient_id": "a42284e1-6744-4c34-86fd-38a4f8a16d14"
+    },
+    {
+        "name": "Green Cardamom",
+        "allergens": [],
+        "ingredient_id": "NBB7QCNKQpoLEZlcVO8g"
+    },
+    {
+        "name": "Licious Chicken Keema",
+        "allergens": [],
+        "ingredient_id": "IU2VgWqzw7wVh4zmZDwS"
+    },
+    {
+        "name": "Amaranth seeds",
+        "allergens": [],
+        "ingredient_id": "HC0KNNckCW3usFnmNwG1"
+    },
+    {
+        "name": "Chicken - Biryani Cut",
+        "allergens": [],
+        "ingredient_id": "Jpx8V7sYeCQmvgzKoZet"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "675176ea-87b4-478c-a533-f5621bda863b"
+    },
+    {
+        "name": "Chicken - Drumsticks",
+        "allergens": [],
+        "ingredient_id": "Ovr3vutIYQILyuFgeuLm"
+    },
+    {
+        "name": "Pasta seasoning",
+        "allergens": [],
+        "ingredient_id": "FPrkFGZy7RzC3addeMB4"
+    },
+    {
+        "name": "Spring Onion Whites",
+        "allergens": [],
+        "ingredient_id": "IFLD4DIoIeDMjNlZisTI"
+    },
+    {
+        "name": "Vanilla Essence",
+        "allergens": [],
+        "ingredient_id": "PTNMBDS1V7RKFn4cOwqh"
+    },
+    {
+        "name": "Frozen Curd",
+        "allergens": [],
+        "ingredient_id": "4ac027a9-ccee-4655-ab0a-5a817e24b510"
+    },
+    {
+        "name": "Bhindi",
+        "allergens": [],
+        "ingredient_id": "1bac1613-3e4f-4c23-b166-8bf617902501"
+    },
+    {
+        "name": "Bread",
+        "allergens": [
+            "Gluten"
+        ],
+        "ingredient_id": "PoLCz8RthcB5Cyam6ope"
+    },
+    {
+        "name": "Cabbage",
+        "allergens": [],
+        "ingredient_id": "9ofqEjt6nhrs6q3yTPJn"
+    },
+    {
+        "name": "Wheat Flour",
+        "allergens": [
+            "Gluten"
+        ],
+        "ingredient_id": "Q4toyAajx7uq3DayTOVr"
+    },
+    {
+        "name": "Chicken Keema",
+        "allergens": [],
+        "ingredient_id": "Rm6Mido1e2x0aT23iKj8"
+    },
+    {
+        "name": "Roasted Suji",
+        "allergens": [],
+        "ingredient_id": "Pv22iWcacD7DNP2rqcps"
+    },
+    {
+        "name": "Cheese Cube",
+        "allergens": [
+            "Lactose"
+        ],
+        "ingredient_id": "KJOKeWOLnv2TmDRFzqyW"
+    },
+    {
+        "name": "Sev",
+        "allergens": [
+            "Gluten"
+        ],
+        "ingredient_id": "MNmAPm7DGCKhTrj2SqJh"
+    },
+    {
+        "name": "White Pepper",
+        "allergens": [],
+        "ingredient_id": "r4mzDqJkorqaZva1vSWd"
+    },
+    {
+        "name": "White Sesame Seeds",
+        "allergens": [
+            "Sesame"
+        ],
+        "ingredient_id": "PXPNAwq0FtxB2OMRvufM"
+    },
+    {
+        "name": "Soaked Cashews ",
+        "allergens": [],
+        "ingredient_id": "QY8DyXIruibnugIaQeCS"
+    },
+    {
+        "name": "Cut Bhindi",
+        "allergens": [],
+        "ingredient_id": "cc3f9e1d-5548-4d38-b7f7-92f26e15cd39"
+    },
+    {
+        "name": "Cheese Slice",
+        "allergens": [
+            "Lactose"
+        ],
+        "ingredient_id": "VHPr5yQbhNBcwhV1CuBj"
+    },
+    {
+        "name": "Chilli Oil",
+        "allergens": [],
+        "ingredient_id": "aW6wU0K1dhJZy65MFW80"
+    },
+    {
+        "name": "Oregano Seasoning",
+        "allergens": [],
+        "ingredient_id": "VWArNcJ1NMPhES0rMTe6"
+    },
+    {
+        "name": "Tadka",
+        "allergens": [],
+        "ingredient_id": "78e03bb1-05b3-4ffb-a369-2f02045c1b41"
+    },
+    {
+        "name": "Curd",
+        "allergens": [
+            "Lactose"
+        ],
+        "ingredient_id": "Wz5OIBhlURuD6jBce75s"
+    },
+    {
+        "name": "Peanut Butter",
+        "allergens": [
+            "Peanut"
+        ],
+        "ingredient_id": "YsWo2koFNOhf2ipnoSur"
+    },
+    {
+        "name": "Fish Sauce",
+        "allergens": [],
+        "ingredient_id": "451d141a-560a-4610-8e49-4eee746f7551"
+    },
+    {
+        "name": "Pineapple",
+        "allergens": [],
+        "ingredient_id": "V17mZudhF89zUQpdcFWS"
+    },
+    {
+        "name": "Steamed Vegetables",
+        "allergens": [],
+        "ingredient_id": "765b6c61-f9f9-4646-9210-fcafcbc649c2"
+    },
+    {
+        "name": "Ivy Gourd",
+        "allergens": [],
+        "ingredient_id": "6a1f89bb-9191-4631-95d5-9b18182f94a2"
+    },
+    {
+        "name": "Dates",
+        "allergens": [],
+        "ingredient_id": "VHOVMdAxPSXwVEBGHrCU"
+    },
+    {
+        "name": "Boiled Chickpeas",
+        "allergens": [],
+        "ingredient_id": "063ddacd-5d91-4565-84ea-3aa49c56637b"
+    },
+    {
+        "name": "Cut Brinjal",
+        "allergens": [],
+        "ingredient_id": "6b6e4d8f-e974-4f1f-999f-bdd4b308b0bd"
+    },
+    {
+        "name": "Medium Poha",
+        "allergens": [],
+        "ingredient_id": "e9VyQzza7y5FXgV6RgO8"
+    },
+    {
+        "name": "Green Cardamom Powder",
+        "allergens": [],
+        "ingredient_id": "dr9N0o23bsygoI566YZk"
+    },
+    {
+        "name": "Daliya",
+        "allergens": [],
+        "ingredient_id": "fm3BQVn26KeFjn2vn4sD"
+    },
+    {
+        "name": "Jaggery",
+        "allergens": [],
+        "ingredient_id": "dSdkOQKpezETvBaDZWgl"
+    },
+    {
+        "name": "Millets",
+        "allergens": [],
+        "ingredient_id": "205a56f3-b809-4c8f-a16e-400c08668dfb"
+    },
+    {
+        "name": "Salt",
+        "allergens": [],
+        "ingredient_id": "eQO36YbYeKu0u92ENyl2"
+    },
+    {
+        "name": "Tamarind Paste",
+        "allergens": [],
+        "ingredient_id": "edUA3YU2lgqYVOViCvpC"
+    },
+    {
+        "name": "Roasted Salted Peanuts",
+        "allergens": [
+            "Peanut"
+        ],
+        "ingredient_id": "oiMgVioipZlaStl08YSs"
+    },
+    {
+        "name": "Basa - Steak Cut",
+        "allergens": [
+            "Fish"
+        ],
+        "ingredient_id": "oN6pOMifxJAbiu05Lgol"
+    },
+    {
+        "name": "Chia Seeds",
+        "allergens": [],
+        "ingredient_id": "l1AW8IrSegFuhBcf7kok"
+    },
+    {
+        "name": "Chaat Masala",
+        "allergens": [],
+        "ingredient_id": "hk8kq0iRGp9eOxa2Pe1E"
+    },
+    {
+        "name": "Moong Dal Sprouts",
+        "allergens": [],
+        "ingredient_id": "iFvV7LkJMHHYVnXyQsZN"
+    },
+    {
+        "name": "Millet",
+        "allergens": [],
+        "ingredient_id": "c30fffe7-f944-4cec-ba9f-74538b087078"
+    },
+    {
+        "name": "Ginger Slices",
+        "allergens": [],
+        "ingredient_id": "f7cc2327-58e9-4882-a550-2a6c6c57e423"
+    },
+    {
+        "name": "Ripe Frozen Bananas",
+        "allergens": [],
+        "ingredient_id": "hfecNbjprmpEWDFIOj9I"
+    },
+    {
+        "name": "Coconut Milk",
+        "allergens": [],
+        "ingredient_id": "kap1Cz4UgThLUVK6qUMQ"
+    },
+    {
+        "name": "Jeera",
+        "allergens": [],
+        "ingredient_id": "k01MJnr4IWnpM9vUG9Cp"
+    },
+    {
+        "name": "Muesli",
+        "allergens": [],
+        "ingredient_id": "iOaZmIgnLQFLpUQNt53t"
+    },
+    {
+        "name": "Thai Curry Paste",
+        "allergens": [],
+        "ingredient_id": "izj5M3cw7UdXq2CCvquB"
+    },
+    {
+        "name": "Cashew Powder",
+        "allergens": [],
+        "ingredient_id": "eafb699a-c7b9-42d2-b82c-88ce596f2f49"
+    },
+    {
+        "name": "Chicken Sausages",
+        "allergens": [],
+        "ingredient_id": "qVmD7lbAfLvawqd6EHbf"
+    },
+    {
+        "name": "Lemon",
+        "allergens": [],
+        "ingredient_id": "ntTSO9ZAMfPG6VPjF22y"
+    },
+    {
+        "name": "Papad",
+        "allergens": [],
+        "ingredient_id": "n82cBcecHcf7EZZV4yCz"
+    },
+    {
+        "name": "Quinoa",
+        "allergens": [],
+        "ingredient_id": "mczTO0K2GWrB0UzbdM27"
+    },
+    {
+        "name": "Schezwan Chutney",
+        "allergens": [],
+        "ingredient_id": "pg7IWHEJNSQnBAnm1EJn"
+    },
+    {
+        "name": "Shahi Paneer Masala",
+        "allergens": [],
+        "ingredient_id": "qAXmYi45ZWZzc3G90ypm"
+    },
+    {
+        "name": "Soy Milk",
+        "allergens": [
+            "Soy"
+        ],
+        "ingredient_id": "pnCMRQUeily7se644DGO"
+    },
+    {
+        "name": "Parchment Paper",
+        "allergens": [],
+        "ingredient_id": "f84a0af8-5d13-45a8-ab1e-751a4d69a92a"
+    },
+    {
+        "name": "Onion",
+        "allergens": [],
+        "ingredient_id": "n7nLaGcBeHJg54aNs7eb"
+    },
+    {
+        "name": "Rendang Paste",
+        "allergens": [],
+        "ingredient_id": "9e3847ab-c719-4c2f-a996-743430457e6a"
+    },
+    {
+        "name": "Iceberg Lettuce",
+        "allergens": [],
+        "ingredient_id": "uTJ34s2Uqr2bD6HbxZrr"
+    },
+    {
+        "name": "Thick Poha",
+        "allergens": [],
+        "ingredient_id": "ve3LcFXlSUA4kuTZV00c"
+    },
+    {
+        "name": "Chilli Flakes",
+        "allergens": [],
+        "ingredient_id": "s9v4TV4QaiZUZNVO1MX1"
+    },
+    {
+        "name": "Cream",
+        "allergens": [
+            "Lactose"
+        ],
+        "ingredient_id": "uodHTuhMHJRNjFkrgQdd"
+    },
+    {
+        "name": "Olives- Sliced",
+        "allergens": [],
+        "ingredient_id": "vN1ZqStVuOH907WwJOu6"
+    },
+    {
+        "name": "Raw Mango",
+        "allergens": [],
+        "ingredient_id": "vOkPgRqJGJt2EDNv9iXI"
+    },
+    {
+        "name": "Spaghetti",
+        "allergens": [
+            "Gluten"
+        ],
+        "ingredient_id": "tatTdeicQ8CEXcLpVuef"
+    },
+    {
+        "name": "Marinade Sauce",
+        "allergens": [],
+        "ingredient_id": "fa49edeb-cfc7-4dff-bfd6-e8765fc55ada"
+    },
+    {
+        "name": "Idli Batter",
+        "allergens": [],
+        "ingredient_id": "b1dd6052-76c3-44e9-9760-e9a04e624033"
+    },
+    {
+        "name": "Grated Coconut",
+        "allergens": [],
+        "ingredient_id": "vq5xHrBfjEr1mUGPubaE"
+    },
+    {
+        "name": "Cocoa Powder",
+        "allergens": [],
+        "ingredient_id": "wqlC64k52CVwsYM3BL6D"
+    },
+    {
+        "name": "Coconut Oil",
+        "allergens": [],
+        "ingredient_id": "wgVk5lisZvKsj6ge3uTs"
+    },
+    {
+        "name": "Ajwain",
+        "allergens": [],
+        "ingredient_id": "wJkoGc8Z3AbgNa788mqi"
+    },
+    {
+        "name": "Split Urad Dal",
+        "allergens": [],
+        "ingredient_id": "c08bf7f1-30ba-460d-93f5-c5be1bb05180"
+    },
+    {
+        "name": "Orange",
+        "allergens": [],
+        "ingredient_id": "yoCnMrSA1vfglIP79iNP"
+    },
+    {
+        "name": "Methi Leaves",
+        "allergens": [],
+        "ingredient_id": "yI2CxLhu8ny8HsSAKpil"
+    },
+    {
+        "name": "Roasted Vermicelli",
+        "allergens": [
+            "Gluten"
+        ],
+        "ingredient_id": "utP527u3aRGtU0VbhOJI"
+    },
+    {
+        "name": "Washed Grapes",
+        "allergens": [],
+        "ingredient_id": "892c6407-8285-478c-b13c-7fe1dca8ec98"
+    },
+    {
+        "name": "Peas",
+        "allergens": [],
+        "ingredient_id": "yKdupKsH8cpJc64MaoPJ"
+    },
+    {
+        "name": "Chutney Podi",
+        "allergens": [
+            "Sesame",
+            "Peanut"
+        ],
+        "ingredient_id": "3bbb59f7-339f-4867-b7a6-19f5e11bb4e9"
+    },
+    {
+        "name": " Coriander Leaves",
+        "allergens": [
+            "Coriander"
+        ],
+        "ingredient_id": "kfcR6XCllMiBZ9pwnUId"
+    },
+    {
+        "name": "Boiled Noodles",
+        "allergens": [],
+        "ingredient_id": "d6e1dbf7-2e6a-4f52-a78e-0e14b32aca31"
+    },
+    {
+        "name": "Broccoli",
+        "allergens": [],
+        "ingredient_id": "yoRm6o3taBFnZaNp9MHc"
+    },
+    {
+        "name": "Cooked Minced Meat",
+        "allergens": [],
+        "ingredient_id": "da65d945-c07f-4465-b0d2-f270178a598f"
+    },
+    {
+        "name": "Minced Mutton",
+        "allergens": [],
+        "ingredient_id": "42dcf54f-6ecd-4333-b891-9aa836d615d9"
+    },
+    {
+        "name": "Ghee",
+        "allergens": [],
+        "ingredient_id": "4Xkqna1iS0li0ya5tHk3"
+    },
+    {
+        "name": "Prawns",
+        "allergens": [
+            "Prawns"
+        ],
+        "ingredient_id": "O5QarU3AINajwjjrako4"
+    },
+    {
+        "name": "Soaked Rice",
+        "allergens": [],
+        "ingredient_id": "cc62c610-d4da-4bbc-bcde-35717b2ba9e0"
+    },
+    {
+        "name": "Eno",
+        "allergens": [],
+        "ingredient_id": "62c8e144-7134-497b-8ed9-1dc62c0718d1"
+    },
+    {
+        "name": "Lemongrass",
+        "allergens": [],
+        "ingredient_id": "1d41bb73-178c-49cc-8dfe-d62f6c33cb36"
+    },
+    {
+        "name": "Sumac Powder",
+        "allergens": [],
+        "ingredient_id": "193c89d7-d60b-4fd1-9081-66837cf5e595"
+    },
+    {
+        "name": "Boiled Chickpea with water",
+        "allergens": [],
+        "ingredient_id": "4e156f34-72af-4826-bd90-6a9ac4ab598a"
+    },
+    {
+        "name": "Chickpea",
+        "allergens": [],
+        "ingredient_id": "d43bd1f9-cc8f-431a-a101-4fd44783fe4f"
+    },
+    {
+        "name": "Black Grapes",
+        "allergens": [],
+        "ingredient_id": "01095a03-bb22-4139-8968-0bbb6705c72e"
+    },
+    {
+        "name": "Cut Lauki",
+        "allergens": [],
+        "ingredient_id": "703aa8aa-3845-4a7d-bd0a-911e8bb796e9"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "4c2b2bbe-ae3f-421b-b101-84508fa20c27"
+    },
+    {
+        "name": "Groundnut Oil",
+        "allergens": [
+            "Peanut"
+        ],
+        "ingredient_id": "70eec3b7-baf3-4b79-b892-2ace200d8c9a"
+    },
+    {
+        "name": "Washed Chickpea",
+        "allergens": [],
+        "ingredient_id": "17f05355-3198-404c-a1e2-2b1acb48849b"
+    },
+    {
+        "name": "Mustard Oil",
+        "allergens": [],
+        "ingredient_id": "9fa7efa9-cc0e-41bd-ab01-08f39d67806e"
+    },
+    {
+        "name": "Roasted Sesame Oil",
+        "allergens": [
+            "Sesame"
+        ],
+        "ingredient_id": "bcahQwkMyXPZ6vbQsMW5"
+    },
+    {
+        "name": "Rajma Masala",
+        "allergens": [],
+        "ingredient_id": "60e664dd-bc89-47e4-bd40-917fbc370abf"
+    },
+    {
+        "name": "Refined Oil",
+        "allergens": [],
+        "ingredient_id": "jVF1elDY6pZ1zZfoWO9K"
+    },
+    {
+        "name": "Chicken - Curry Cut",
+        "allergens": [],
+        "ingredient_id": "FuHudDTt0PrVZjJVvLWa"
+    },
+    {
+        "name": "Black Olives- Sliced",
+        "allergens": [],
+        "ingredient_id": "27ce4606-6f82-4ed6-80fa-266be1151479"
+    },
+    {
+        "name": "Ginger Garlic Paste",
+        "allergens": [],
+        "ingredient_id": "wrvwdBSZ87nD93livtWx"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "025844b2-bd83-4911-9111-5417680998bd"
+    },
+    {
+        "name": "Peeled Carrot",
+        "allergens": [],
+        "ingredient_id": "9921e834-a127-41d4-9750-164710d95a69"
+    },
+    {
+        "name": "Chickpea Water",
+        "allergens": [],
+        "ingredient_id": "d87b30a7-3c95-4498-816c-ae1d0db12812"
+    },
+    {
+        "name": "Jayesh + vivek",
+        "allergens": [],
+        "ingredient_id": "9fccced8-e0fd-46fd-bb91-d5888f1950a8"
+    },
+    {
+        "name": "Khowa",
+        "allergens": [
+            "Lactose"
+        ],
+        "ingredient_id": "2c402c1a-7d42-4f39-b5d3-71918058bc35"
+    },
+    {
+        "name": "Black Split Urad Dal",
+        "allergens": [],
+        "ingredient_id": "b312fbea-f57e-4951-8131-f38b5926c4c9"
+    },
+    {
+        "name": "Kaffir Lime Leaves",
+        "allergens": [],
+        "ingredient_id": "482337bb-3120-4d38-903f-0b7a1c50e461"
+    },
+    {
+        "name": "Shallots",
+        "allergens": [],
+        "ingredient_id": "c4979e9b-78e5-40fd-8c88-fec88c131e86"
+    },
+    {
+        "name": "Split Green Gram",
+        "allergens": [],
+        "ingredient_id": "84f2dc0c-6349-4f7d-ada6-a8ac5a991d91"
+    },
+    {
+        "name": "Shredded Chicken",
+        "allergens": [],
+        "ingredient_id": "8b9627a4-f724-4e83-95bb-8f40985418e0"
+    },
+    {
+        "name": "Dried Herbs",
+        "allergens": [],
+        "ingredient_id": "ce109dbe-9cf0-4142-8497-9f20e221b2d2"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "0f17d033-609f-4ed8-9551-b55b4d5db8df"
+    },
+    {
+        "name": "Sliced Orange",
+        "allergens": [],
+        "ingredient_id": "bfde2238-3af6-48d2-becc-4317e5c3203a"
+    },
+    {
+        "name": "Apple",
+        "allergens": [],
+        "ingredient_id": "o8damVE6gQbxOlxHLh7A"
+    },
+    {
+        "name": "Cut Beetroot",
+        "allergens": [],
+        "ingredient_id": "a2f6b2e8-2908-4625-9aa8-2d3f78228b39"
+    },
+    {
+        "name": "Cut Parval",
+        "allergens": [],
+        "ingredient_id": "8ee8993b-057e-4499-b98c-f7561ab08f5f"
+    },
+    {
+        "name": "Gongura",
+        "allergens": [],
+        "ingredient_id": "01f9036b-0efc-48c8-888f-d241f9df7415"
+    },
+    {
+        "name": "new ingredient",
+        "allergens": [],
+        "ingredient_id": "906354ba-0ed0-4ab8-a0d0-b2255559e1e4"
+    },
+    {
+        "name": "Pomace Olive Oil",
+        "allergens": [],
+        "ingredient_id": "L2eBXrU6zZKpi3C0jdCG"
+    },
+    {
+        "name": "Soaked Dal",
+        "allergens": [],
+        "ingredient_id": "8cc42920-ca02-4208-8808-6b722ec39508"
+    },
+    {
+        "name": "Soya Chunks",
+        "allergens": [],
+        "ingredient_id": "e5244ae2-27cd-4743-a8ea-4732f55f9644"
+    },
+    {
+        "name": "Cream",
+        "allergens": [],
+        "ingredient_id": "e3a6428a-6140-4b7d-870a-04689a485c26"
+    },
+    {
+        "name": "Cream",
+        "allergens": [],
+        "ingredient_id": "ae10fb18-6bfa-4afc-a9b9-0de0f3b51025"
+    },
+    {
+        "name": "Corn Kernels",
+        "allergens": [],
+        "ingredient_id": "4aed4ed8-f246-40ed-9601-c200165e1dc4"
+    },
+    {
+        "name": "Tea bag",
+        "allergens": [],
+        "ingredient_id": "83435fc3-21f1-451b-b127-747a73ef682f"
+    },
+    {
+        "name": "Watermelon",
+        "allergens": [],
+        "ingredient_id": "4087fe03-4d69-4310-8bfd-01e4a126ba16"
+    },
+    {
+        "name": "Tea Bag",
+        "allergens": [],
+        "ingredient_id": "d2f01728-2a29-41a4-b16c-d1f88b6eb3df"
+    },
+    {
+        "name": "Rose Syrup",
+        "allergens": [],
+        "ingredient_id": "1bd0f8b6-eea2-4678-82e7-dc37b0a4716d"
+    },
+    {
+        "name": "Avocado",
+        "allergens": [],
+        "ingredient_id": "cc980d43-a98c-4a53-8e53-23201a854d14"
+    },
+    {
+        "name": "Corn Kernels",
+        "allergens": [],
+        "ingredient_id": "60e695ee-6eb7-411a-b753-69fd6a8923ca"
+    },
+    {
+        "name": "Kunafa Dough",
+        "allergens": [],
+        "ingredient_id": "c57b9864-29f7-4c22-b21d-560b8950ed01"
+    },
+    {
+        "name": "Custard Powder",
+        "allergens": [],
+        "ingredient_id": "2ed5c52b-471a-43c0-8c0c-7f08b3f7d26a"
+    },
+    {
+        "name": "Grapes",
+        "allergens": [],
+        "ingredient_id": "832c6abb-9f91-41d1-8a99-60186bdbad24"
+    }
+]
